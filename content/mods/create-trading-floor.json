@@ -1,0 +1,23 @@
+{
+  "name": "Create: Trading floor",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WROfLLvn",
+      "slug": "create-trading-floor",
+      "versionId": "K3nIvcWT",
+      "versionNumber": "3.0.16",
+      "filename": "trading_floor-3.0.16.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WROfLLvn/versions/K3nIvcWT/trading_floor-3.0.16.jar",
+      "sha1": "7be6d8b24f3120fa6a2520c32a2e6c8c4254322c",
+      "sha512": "6eaf42758446093c1923a9c325b955f7ec38933bc0b271559547b73b7dc9950e47a8256ca6f9baf13389ccc349da05a9e32d0f77e71a5f5b2c37080f3773148f",
+      "fileSize": 214343
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

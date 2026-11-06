@@ -1,0 +1,23 @@
+{
+  "name": "Atlas Api",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "7e9kzq9t",
+      "slug": "atlas-api",
+      "versionId": "IkS0pyUg",
+      "versionNumber": "1.21.1-1.2.0",
+      "filename": "atlas_api-1.21.1-1.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/7e9kzq9t/versions/IkS0pyUg/atlas_api-1.21.1-1.2.0.jar",
+      "sha1": "79487e97bd6dbbd6cfbdbcd4fbf1a7ac34fb8998",
+      "sha512": "90a9946a544bf97932bb48bc1cc757ad698b71008da780ee0113a1896c19cb2811d0fb705756c8df5d8a792f31ba97f00e3988ac04bb71c70b8837a0baa275a3",
+      "fileSize": 28419
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

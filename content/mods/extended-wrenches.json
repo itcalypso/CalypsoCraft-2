@@ -1,0 +1,23 @@
+{
+  "name": "Create: Extended Wrenches",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WNRCHiE5",
+      "slug": "extended-wrenches",
+      "versionId": "g0PyoRas",
+      "versionNumber": "2.0.2",
+      "filename": "create-extended-wrenches-1.21.1-2.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WNRCHiE5/versions/g0PyoRas/create-extended-wrenches-1.21.1-2.0.2.jar",
+      "sha1": "fbb77bc688c8ec0d9d2bccb6e6e31b0b8600a927",
+      "sha512": "dfd0f7e343bf5232a43eea440ff0734db80ca011121d461b22a9247e46a9a3377a2fe0f78cfb84986e92ce4b9f3ccc7c630d452396ce9c615d741e21c6e9e4c3",
+      "fileSize": 401219
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Just Enough Breeding (JEBr)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9Pk89J3g",
+      "slug": "justenoughbreeding",
+      "versionId": "3k2X4lSn",
+      "versionNumber": "3.3.0",
+      "filename": "justenoughbreeding-neoforge-1.21.1-3.3.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9Pk89J3g/versions/3k2X4lSn/justenoughbreeding-neoforge-1.21.1-3.3.0.jar",
+      "sha1": "2213661987627cfe9d07a6771027f282cc5587ea",
+      "sha512": "45e57deffc05390fce5a617af7409e63eef0ed06cd01dd276c44bde153c65aff3d924179666918f594b4a274a2f94dd84c7626361baafe6a5180fd946bae0949",
+      "fileSize": 626726
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

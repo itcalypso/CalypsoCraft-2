@@ -1,0 +1,23 @@
+{
+  "name": "Ocean's Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DGiq4ZSW",
+      "slug": "oceans-delight",
+      "versionId": "ja5Qg1xw",
+      "versionNumber": "1.0.4",
+      "filename": "oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DGiq4ZSW/versions/ja5Qg1xw/oceansdelight-neoforge-1.0.4-1.21.1.jar",
+      "sha1": "2246edd8fc1bbf60422f5099854c1de0b2a439c9",
+      "sha512": "8079160938175f9d0c1b8f10587c40e3c6b54210511109331f0bb37a845aa90522f60c4e668688e8a0b4023e0464b80d44f50a6af39572fe519d48c9581a9f15",
+      "fileSize": 117108
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Visual Workbench",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "kfqD1JRw",
+      "slug": "visual-workbench",
+      "versionId": "3646RfLS",
+      "versionNumber": "21.1.2",
+      "filename": "VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/kfqD1JRw/versions/3646RfLS/VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar",
+      "sha1": "dd5b71bff42ce3f845afc9c3640d4f4f63ccdb1b",
+      "sha512": "3737a436143acc1c6f80d0633371dafb4e24026d585bf5afa80421e1d1d6bbd2243d040c43a70d6796377227c0762d058c27c2b16a3fb20d0c2602bd04ae2038",
+      "fileSize": 76670
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

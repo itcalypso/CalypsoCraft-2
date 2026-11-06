@@ -1,0 +1,22 @@
+{
+  "name": "Create: Prismatic Shine",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1355767",
+      "slug": "create-prismatic-shine",
+      "versionId": "9008802",
+      "versionNumber": "Create Prismatic Shine 1.2.3 Neoforge 1.21.1",
+      "filename": "createprism-1.2.3.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9008/802/createprism-1.2.3.jar",
+      "sha1": "421f670163953473e3e113e568287d1779138236",
+      "fileSize": 1304089
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

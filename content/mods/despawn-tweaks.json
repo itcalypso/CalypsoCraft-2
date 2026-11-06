@@ -1,0 +1,23 @@
+{
+  "name": "Despawn Tweaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ahQrpeXp",
+      "slug": "despawn-tweaks",
+      "versionId": "tKu2fTKc",
+      "versionNumber": "neoforge-1.21.1-1.0.0",
+      "filename": "despawntweaks-neoforge-1.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ahQrpeXp/versions/tKu2fTKc/despawntweaks-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "e85b18cbb8dffd7e6920002c572f52c1de87c794",
+      "sha512": "152a7077c14ae4d823c7404895a83c08a26b9f1e58b0248051d51151cd4164648512800892ff09ba6e643c2ecd535f48d02688cadb770e05b695ebee1d1ea58b",
+      "fileSize": 458075
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

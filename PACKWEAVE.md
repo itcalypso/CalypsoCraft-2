@@ -1,0 +1,250 @@
+# calypsocraft 2 dev 0.3
+
+**Minecraft 1.21.1 · NeoForge 21.1.256**, 241 mods (13 dependencies), 1 resource pack
+
+## Contents
+
+- [3D Skin Layers](https://modrinth.com/project/3dskinlayers) `1.11.3`
+- [[EMF] Entity Model Features](https://modrinth.com/project/entity-model-features) `3.3.9-neoforge-1.21`
+- [[ETF] Entity Texture Features](https://modrinth.com/project/entitytexturefeatures) `7.2.4-neoforge-1.21`
+- [[NTGL] NukaTeam's Gun Lib](https://modrinth.com/project/ntgl) `3.2.0`
+- [AllTheLeaks (Memory Leak Fix)](https://www.curseforge.com/projects/1091339) `alltheleaks-1.1.13+1.21.1-neoforge.jar`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.1.10`
+- [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
+- [Architectury API](https://modrinth.com/project/architectury-api) `13.0.11+neoforge`
+- [Ars Elemental](https://www.curseforge.com/projects/561470) `ars_elemental-1.21.1-0.7.10.4.jar`
+- [Ars Nouveau](https://modrinth.com/project/ars-nouveau) `5.13.3`
+- [Ars Nouveau's Flavors & Delight](https://modrinth.com/project/arsdelight) `2.2.5`
+- [Ars Sable](https://modrinth.com/project/ars-sable) `1.2.0`
+- [Artifacts](https://modrinth.com/project/artifacts) `13.2.5`
+- [Atlas Api](https://modrinth.com/project/atlas-api) `1.21.1-1.2.0`
+- [Azimuth API](https://modrinth.com/project/azimuth-api) `1.4.9`
+- [Backpacked](https://www.curseforge.com/projects/352835) `Backpacked 3.0.5`
+- [Bad Wither No Cookie - Reloaded](https://modrinth.com/project/bad-wither-no-cookie) `3.20.4`
+- [Balm](https://modrinth.com/project/balm) `21.0.66+neoforge-1.21.1`
+- [Better Clouds](https://modrinth.com/project/better-clouds) `1.13.11+1.21.1-neoforge-release`
+- [Better Compatibility Checker](https://modrinth.com/project/better-compatibility-checker) `21.1.8`
+- [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
+- [Boat Item View](https://modrinth.com/project/boat-item-view) `1.21-1.21.1-0.0.6-neoforge`
+- [Boatload](https://modrinth.com/project/boatload) `6.0.2`
+- [Bookshelf](https://modrinth.com/project/bookshelf-lib) `21.1.81`
+- [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
+- [Brooms Unofficial](https://modrinth.com/project/brooms-unofficial) `1.21.1-1.2.1`
+- [Caelus API](https://modrinth.com/project/caelus) `7.0.1+1.21.1`
+- [Chat Heads](https://modrinth.com/project/chat-heads) `0.15.7`
+- [Chunk Activity Tracker](https://modrinth.com/project/chunk-activity-tracker) `neoforge-1.21.1-1.0.1`
+- [Chunky](https://modrinth.com/project/chunky) `1.4.23`
+- [Client Crafting](https://www.curseforge.com/projects/888790) `clientcrafting-1.21-2.1.jar`
+- [Climbable Ropes for Create Aeronautics](https://modrinth.com/project/create-aeronautics-climbable-rope) `2.1.4`
+- [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
+- [Clumps](https://modrinth.com/project/clumps) `19.0.0.1`
+- [Collective](https://modrinth.com/project/collective) `1.21.1-8.40-fabric+forge+neo`
+- [Colorwheel Patcher](https://modrinth.com/project/colorwheel-patcher) `1.0.5+mc1.21.1`
+- [Command Block UI Overhaul](https://modrinth.com/project/command-block-ui-overhaul) `1.1.0+mc1.21.1`
+- [Configurable](https://modrinth.com/project/configurable) `3.5.2`
+- [Configured Defaults](https://modrinth.com/project/configured-defaults) `v21.1.3-1.21.1-NeoForge`
+- [Connectivity](https://www.curseforge.com/projects/470193) `connectivity-1.21.1-7.7.jar`
+- [Continuity](https://modrinth.com/project/continuity) `3.0.0+1.21.neoforge`
+- [Controlling](https://modrinth.com/project/controlling) `19.0.5`
+- [Copycats+ aeronautics weight](https://modrinth.com/project/copycats-plus-aeronautics-weight) `1.1.1`
+- [Corn Delight](https://modrinth.com/project/corn-delight) `1.2.10-1.21.1`
+- [CoroUtil](https://www.curseforge.com/projects/237749) `coroutil-neoforge-1.21.0-1.3.9.jar`
+- [CraterLib](https://modrinth.com/project/craterlib) `1.21-3.1.3`
+- [Create](https://modrinth.com/project/create) `6.0.10+mc1.21.1`
+- [Create - Xaero's map](https://www.curseforge.com/projects/1622142) `sablexaeromaps-1.21.1-1.4.0.jar`
+- [Create Aeronautics](https://modrinth.com/project/create-aeronautics) `1.3.2+mc1.21.1`
+- [Create Aeronautics x Curios API Compat](https://modrinth.com/project/create-aeronautics-x-curios-api-compat) `2.0`
+- [Create Aeronautics: Throwable Rope Connector](https://modrinth.com/project/create-aeronautics-throwable-rope-connector) `0.4.3`
+- [Create Confectionery](https://modrinth.com/project/create-confectionery) `1.1.3.b`
+- [Create Encased](https://modrinth.com/project/create-encased) `1.21.1-1.9.0-ht3`
+- [Create Extra Recipes](https://www.curseforge.com/projects/1266786) `extra_create_recipes_1.21.1_v1.jar`
+- [Create Optical](https://modrinth.com/project/create-optical) `0.4.2`
+- [Create Propulsion: Simulated](https://modrinth.com/project/create-propulsion-simulated) `1.1.5`
+- [Create Railways Navigator](https://modrinth.com/project/create-railways-navigator) `1.21.1-beta-0.10.0-C6`
+- [Create Slice & Dice](https://modrinth.com/project/slice-and-dice) `4.3.4`
+- [Create Stuff 'N Additions](https://modrinth.com/project/create-stuff-additions) `2.1.4.b`
+- [Create Stuff 'N Additions x Sable & Aeronautics Compat](https://modrinth.com/project/create-stuff-n-additions-x-sable-aeronautics-compat) `1.0.4`
+- [Create Train Parts](https://modrinth.com/project/create-train-parts) `0.5.2`
+- [Create: Aeroworks](https://www.curseforge.com/projects/1522473) `1.5.0+mc1.21.1`
+- [Create: Aquatic Ambitions](https://modrinth.com/project/create-aquatic-ambitions) `1.21.1-6.0.10-2.0.4`
+- [Create: Bells & Whistles](https://modrinth.com/project/bellsandwhistles) `v0.4.7-1.21.1`
+- [Create: Bionics](https://modrinth.com/project/create-bionics) `2.5.0`
+- [Create: Bits 'n' Bobs](https://modrinth.com/project/create-bits-n-bobs) `2.3.5`
+- [Create: Blaze Burner Fuels](https://modrinth.com/project/create-blaze-burner-fuels) `1.0.2`
+- [Create: Blocks & Bogies](https://modrinth.com/project/blocks-bogies) `1.0.8-1.21.1`
+- [Create: Central Kitchen](https://modrinth.com/project/create-central-kitchen) `2.6.2`
+- [Create: Coasters Simulated](https://modrinth.com/project/create-coasters-simulated) `0.1.5`
+- [Create: Copper Splashing](https://www.curseforge.com/projects/1266798) `coppersplashing_1.21.1_v1.jar`
+- [Create: Copycats+](https://modrinth.com/project/copycats) `3.0.9+mc.1.21.1-neoforge`
+- [Create: Design n' Decor](https://modrinth.com/project/create-design-n-decor) `2.2b`
+- [Create: Diesel Generators](https://modrinth.com/project/create-diesel-generators) `1.21.1-1.3.15`
+- [Create: Dragons Plus](https://modrinth.com/project/create-dragons-plus) `1.11.9`
+- [Create: Enchantment Industry](https://modrinth.com/project/create-enchantment-industry) `2.4.2`
+- [Create: Escalated](https://modrinth.com/project/escalated) `1.3.2`
+- [Create: Estrogen](https://modrinth.com/project/create-estrogen) `2.0.0+1.21.1-neoforge`
+- [Create: Extended Wrenches](https://modrinth.com/project/extended-wrenches) `2.0.2`
+- [Create: Factory](https://modrinth.com/project/create-factory) `0.7b-1.21.1`
+- [Create: FastSchematicCannon](https://modrinth.com/project/create-fast-schematic-cannon) `1.21.1-1.4.1-neoforge`
+- [Create: Framed](https://modrinth.com/project/create-framed) `1.8.2+1.21.1`
+- [Create: Gears n' Kinetics](https://modrinth.com/project/gears-n-kinetics) `1.0m`
+- [Create: Gunsmithing](https://modrinth.com/project/cgs) `1.4.9`
+- [Create: Hypertubes](https://modrinth.com/project/hypertube) `0.6.0`
+- [Create: Industrialized Architecture](https://www.curseforge.com/projects/1316585)
+- [Create: Misc and Things](https://modrinth.com/project/create-misc-and-things) `4.1.1`
+- [Create: Mob Spawners](https://modrinth.com/project/create-mob-spawners) `1.1.0`
+- [Create: Mobile Packages](https://modrinth.com/project/create-mobile-packages) `1.21.1-0.7.7`
+- [Create: Ornithopter Glider](https://modrinth.com/project/create-ornithopter-glider) `1.2.0+1.21.1`
+- [Create: Pattern Schematics](https://modrinth.com/project/create-pattern-schematics) `2.0.10`
+- [Create: Power Grid](https://modrinth.com/project/power-grid) `0.6.2`
+- [Create: Prismatic Shine](https://www.curseforge.com/projects/1355767) `Create Prismatic Shine 1.2.3 Neoforge 1.21.1`
+- [Create: Rolling Tones](https://modrinth.com/project/create-rolling-tones) `rolling_tones_0.2.2`
+- [Create: Sound of Steam](https://modrinth.com/project/create-sound-of-steam) `0.8.2-1.21.1`
+- [Create: Springs](https://modrinth.com/project/create-springs) `1.2.1-neoforge`
+- [Create: Testosterone](https://modrinth.com/project/testosterone) `Neoforge-2.1.1-1.21.1`
+- [Create: Tradeworks](https://modrinth.com/project/tradeworks) `1.0.7`
+- [Create: Trading floor](https://modrinth.com/project/create-trading-floor) `3.0.16`
+- [Create: Transmission!](https://modrinth.com/project/create-transmission) `1.2.2+neoforge-create6-1.21.1`
+- [Create: Tweaked Controllers](https://modrinth.com/project/create-tweaked-controllers) `1.21.1-1.2.7`
+- [Create: Vibrant Vaults](https://modrinth.com/project/create-vibrant-vaults) `0.3.2`
+- [Create: Wrapped](https://modrinth.com/project/create-wrapped) `1.0.3`
+- [Cupboard](https://www.curseforge.com/projects/326652) `cupboard-1.21.1-4.2.jar`
+- [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
+- [Cut Through](https://modrinth.com/project/cut-through) `v21.1.0-1.21.1-NeoForge`
+- [Cynosure](https://modrinth.com/project/cynosure) `1.0.3-neoforge`
+- [Despawn Tweaks](https://modrinth.com/project/despawn-tweaks) `neoforge-1.21.1-1.0.0`
+- [DragonLib](https://modrinth.com/project/dragonlib) `1.21.1-beta-3.0.28`
+- [Dungeon's Delight](https://modrinth.com/project/dungeons_delight) `1.5.1`
+- [e4mc](https://modrinth.com/project/e4mc) `6.2.2-neoforge`
+- [Easy Anvils](https://modrinth.com/project/easy-anvils) `v21.1.0-1.21.1-NeoForge`
+- [Easy Magic](https://modrinth.com/project/easy-magic) `v21.1.4-1.21.1-NeoForge`
+- [Easy Model Entities](https://modrinth.com/project/easy-model-entities) `2.6.0`
+- [Easy NPC: Config UI](https://modrinth.com/project/easy-npc-config-ui) `7.17.1`
+- [Easy NPC: Core](https://modrinth.com/project/easy-npc-core) `7.17.1`
+- [EasyNPC x FTB Quests Compat](https://modrinth.com/project/easynpc-x-ftb-quests-compat) `1.21.1+1.0.2`
+- [Effortless Building](https://modrinth.com/project/effortless-building) `4.2`
+- [Enchantment Descriptions](https://modrinth.com/project/enchantment-descriptions) `21.1.11`
+- [Enchantment Disabler](https://modrinth.com/project/enchantment-disabler) `3.4.9+1.21.1`
+- [Enchantments Encore](https://modrinth.com/project/enchantments-encore) `1.8+mod`
+- [Enchantments Unrestricted](https://modrinth.com/project/enchantments-unrestricted) `neoforge-1.21.1-1.1.0`
+- [EpheroLib](https://www.curseforge.com/projects/885449) `EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar`
+- [Estrogen](https://modrinth.com/project/estrogen) `6.0.10+1.21.1-neoforge`
+- [FancyMenu](https://modrinth.com/project/fancymenu) `3.9.14-1.21.1-neoforge`
+- [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
+- [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [fix GPU memory leak](https://www.curseforge.com/projects/882495) `gpumemleakfix-1.21-1.8.jar`
+- [Forgified Fabric API](https://www.curseforge.com/projects/889079) `[1.21.1] Forgified Fabric API 0.116.15+2.3.5+1.21.1`
+- [Framework](https://www.curseforge.com/projects/549225) `Framework 0.13.11`
+- [FTB Library (NeoForge)](https://www.curseforge.com/projects/404465) `[NEOFORGE][1.21.1] FTB Library 2101.1.37`
+- [FTB Quests (NeoForge)](https://www.curseforge.com/projects/289412) `[NEOFORGE][1.21.1] FTB Quests 2101.1.36`
+- [FTB Teams (NeoForge)](https://www.curseforge.com/projects/404468) `[NEOFORGE][1.21.1] FTB Teams 2101.1.11`
+- [FTB XMod Compat](https://www.curseforge.com/projects/889915) `[NEOFORGE][1.21.1] FTB XMod Compat 21.1.12`
+- [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
+- [Gallery](https://modrinth.com/project/gallery) `2.0.1`
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [Handcrafted](https://modrinth.com/project/handcrafted) `4.0.3`
+- [Iceberg](https://modrinth.com/project/iceberg) `1.3.2`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.14+1.21.1-neoforge`
+- [Immersive Aircraft](https://modrinth.com/project/immersive-aircraft) `1.5.2+1.21.1`
+- [Immersive Armors](https://modrinth.com/project/immersive-armors) `1.7.6+1.21.1`
+- [Iron's Gems 'n Jewelry](https://modrinth.com/project/irons-jewelry) `1.21.1-2.0.2`
+- [Iron's Lib](https://modrinth.com/project/irons-lib) `1.21.1-2.3.0`
+- [Item Highlighter](https://modrinth.com/project/item-highlighter) `1.1.11`
+- [Jade Addons (Neo/Forge)](https://modrinth.com/project/jade-addons-forge) `6.1.1+neoforge`
+- [Jade Sable Compat](https://modrinth.com/project/jade-sable-compat) `1.3.0`
+- [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Just Enough Breeding (JEBr)](https://modrinth.com/project/justenoughbreeding) `3.3.0`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.57.0.450`
+- [Just Enough Professions (JEP)](https://www.curseforge.com/projects/417645) `JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar`
+- [Just Enough Resources (JER)](https://modrinth.com/project/just-enough-resources-jer) `1.6.0.17`
+- [KeybindsPurger](https://modrinth.com/project/keybindspurger) `1.3.3`
+- [Konkrete](https://modrinth.com/project/konkrete) `1.9.9-1.21-neoforge`
+- [Kotlin for Forge](https://www.curseforge.com/projects/351264) `Kotlin for Forge 5.12.0`
+- [KubeJS](https://modrinth.com/project/kubejs) `2101.7.2-build.374`
+- [KubeJS Ars Nouveau](https://www.curseforge.com/projects/833926) `kubejsarsnouveau-1.3.2.jar`
+- [KubeJS Create](https://modrinth.com/project/kubejs-create) `2101.3.1-build.18`
+- [Leaky - Item Lag Fix](https://www.curseforge.com/projects/856906) `leaky-1.21-3.4.jar`
+- [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.0-neoforge-21.1`
+- [Load My F***ing Tags](https://modrinth.com/project/lmft) `1.1.1+1.21.9`
+- [Melody](https://modrinth.com/project/melody) `1.0.10-1.21-neoforge`
+- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.6.6`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.24+mc1.21.1`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.7.0`
+- [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [Mysterious Mountain Lib](https://modrinth.com/project/mmlib) `1.2.15-1.21.1`
+- [Natural Temperature](https://modrinth.com/project/natural-temperature) `1.1.10`
+- [Nautilus Studio - Packs Editor IDE](https://modrinth.com/project/packs-editor) `1.21.1-1.10.1`
+- [NBT For Give](https://modrinth.com/project/nbt-for-give) `1.4.2`
+- [Neo Enchant+](https://modrinth.com/project/neoenchant) `5.14.0`
+- [Neruina - Ticking Entity Fixer](https://modrinth.com/project/neruina) `3.3.3`
+- [NetherPortalFix](https://www.curseforge.com/projects/241160) `netherportalfix-neoforge-1.21.1-21.1.1.jar`
+- [No Chat Reports](https://modrinth.com/project/no-chat-reports) `NeoForge-1.21.1-v2.9.1`
+- [No Chat Restrictions](https://modrinth.com/project/no-chat-restrictions) `NeoForge-MC1.21.11-v1.0.3`
+- [No Elytras](https://modrinth.com/project/no-elytras) `1.0.0-1.21.x+mod`
+- [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.6`
+- [Ocean's Delight](https://modrinth.com/project/oceans-delight) `1.0.4`
+- [One To One Nether Travel](https://www.curseforge.com/projects/1235340) `onetoonenethertravel-0.1.0.jar`
+- [Open Parties and Claims](https://modrinth.com/project/open-parties-and-claims) `neoforge-1.21.1-0.31.6`
+- [Packet Fixer](https://modrinth.com/project/packet-fixer) `3.3.1`
+- [Patchouli](https://modrinth.com/project/patchouli) `1.21.1-93-neoforge`
+- [Paxi](https://modrinth.com/project/paxi) `1.21.1-NeoForge-5.1.3`
+- [Personality](https://modrinth.com/project/personality) `5.0.2`
+- [Pick Up Notifier](https://modrinth.com/project/pick-up-notifier) `v21.1.1-1.21.1-NeoForge`
+- [Placebo](https://modrinth.com/project/placebo) `1.21.1-9.9.2`
+- [playerAnimator](https://modrinth.com/project/playeranimator) `2.0.4+1.21.1-forge`
+- [Polymorph](https://modrinth.com/project/polymorph) `1.1.0+1.21.1`
+- [Polytone](https://modrinth.com/project/polytone) `1.21-5.3.4`
+- [Prickle](https://modrinth.com/project/prickle) `21.1.11`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.62`
+- [Quark](https://modrinth.com/project/quark) `4.1-485`
+- [Ray's Better Sugarcane](https://modrinth.com/project/better-sugar-cane) `1.6.4`
+- [Recipe Essentials](https://www.curseforge.com/projects/907856) `recipeessentials-1.21.1-4.7.jar`
+- [Redirected](https://modrinth.com/project/redirected) `neoforge-1.21.1-1.0.0`
+- [Reliable Recipes](https://modrinth.com/project/reliable-recipes) `3.2.0-1.21.1-neoforge`
+- [Reliable Remover](https://modrinth.com/project/reliable-remover) `3.1.1-1.21.1-neoforge`
+- [Reliable Replacer](https://modrinth.com/project/reliable-replacer) `1.8.1+1.21.1-neoforge`
+- [Resource Pack Overrides](https://modrinth.com/project/resource-pack-overrides) `v21.1.0-1.21.1-NeoForge`
+- [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
+- [Rhino](https://modrinth.com/project/rhino) `2101.2.7-build.85+Rhino-1.21`
+- [RunicLib](https://modrinth.com/project/runiclib) `5.0.7`
+- [Rustic Delight](https://modrinth.com/project/rustic-delight) `1.7.1`
+- [Sable](https://modrinth.com/project/sable) `2.0.5+mc1.21.1`
+- [Searchables](https://modrinth.com/project/searchables) `1.0.2`
+- [Server Performance - Smooth Chunk Save](https://www.curseforge.com/projects/582327) `smoothchunk-1.21-4.1.jar`
+- [ShadowizardLib](https://modrinth.com/project/shadowizardlib) `1.3.3`
+- [Shtreimel - Sable Utility](https://www.curseforge.com/projects/1529625) `shtreimel-neoforge-1.21.1-0.6.0.jar`
+- [Sidekick](https://modrinth.com/project/sidekick) `2.0.6+1.21.1-neoforge`
+- [Sinytra Connector](https://www.curseforge.com/projects/890127) `Connector 2.0.0 beta 17`
+- [Skillcloaks](https://modrinth.com/project/skillcloaks) `1.2.7`
+- [SnAssets Library - General](https://modrinth.com/project/snassets-library-general) `snassets-general-1.0.2`
+- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Sodium Extra](https://modrinth.com/project/sodium-extra) `mc1.21.1-0.9.4+neoforge`
+- [Starter Kit](https://modrinth.com/project/starter-kit) `1.21.1-8.3-fabric+forge+neo`
+- [Structure Essentials](https://www.curseforge.com/projects/832882) `structureessentials-1.21.1-5.0.jar`
+- [Structurify - Structure Control](https://modrinth.com/project/structurify) `neoforge-2.0.43+mc1.21.1`
+- [Strut Your Stuff (Struts)](https://modrinth.com/project/strut-your-stuff) `1.3.1`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-3.9.9`
+- [TarotCards: Remastered](https://modrinth.com/project/tarotcards-remastered) `2.3.5+neoforge`
+- [Tectonic](https://modrinth.com/project/tectonic) `3.0.28-neoforge-21.1`
+- [TerraBlender (NeoForge)](https://www.curseforge.com/projects/940057) `TerraBlender NeoForge 1.21.1-4.1.0.8`
+- [Terralith](https://modrinth.com/project/terralith) `2.6.2`
+- [Tide 2](https://modrinth.com/project/tide) `2.1.1`
+- [Tips](https://modrinth.com/project/tips) `21.1.3`
+- [Toast Control](https://www.curseforge.com/projects/271740) `ToastControl-1.21.1-9.0.1.jar`
+- [Tool Trims](https://modrinth.com/project/tool-trims) `3.0.7+1.21.1`
+- [TorchMaster](https://modrinth.com/project/torchmaster) `21.1.13-release`
+- [Trading Post](https://modrinth.com/project/trading-post) `v21.1.1-1.21.1-NeoForge`
+- [TxniLib](https://modrinth.com/project/txnilib) `neoforge-1.21.1-1.0.24`
+- [Vintage Beams](https://modrinth.com/project/vintage-beams) `1.0.0`
+- [Visual Workbench](https://modrinth.com/project/visual-workbench) `21.1.2`
+- [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
+- [Wings Of Fire!](https://modrinth.com/project/wings-of-fire) `1.0`
+- [WorldEdit](https://modrinth.com/project/worldedit) `7.3.8`
+- [Xaero Map Regions](https://modrinth.com/project/xaero-map-regions) `1.0.8`
+- [Xaero's Minimap](https://modrinth.com/project/xaeros-minimap) `neoforge-1.21.1-26.5.0`
+- [Xaero's World Map](https://modrinth.com/project/xaeros-world-map) `neoforge-1.21.1-1.46.0`
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
+- [YUNG's API](https://modrinth.com/project/yungs-api) `1.21.1-NeoForge-5.1.9`
+- [Zeta](https://modrinth.com/project/zeta) `1.1-40`
+
+_Generated by packweave._

@@ -1,0 +1,23 @@
+{
+  "name": "Brooms Unofficial",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Ktr5lJNt",
+      "slug": "brooms-unofficial",
+      "versionId": "k49T6Af0",
+      "versionNumber": "1.21.1-1.2.1",
+      "filename": "BroomsModUnofficial-1.21.1-1.2.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ktr5lJNt/versions/k49T6Af0/BroomsModUnofficial-1.21.1-1.2.1.jar",
+      "sha1": "46726962358a3727ac21abe7f237635d71f75084",
+      "sha512": "c84d0e71cb7e225e09db44adb46183e4deb65fa7d7f6c2f620b487338c73a90b0a59404f7d43895affa5e95173de51491fa6ec10d8e4ccc068849ceaf7d7f772",
+      "fileSize": 71932
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

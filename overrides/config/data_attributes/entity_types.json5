@@ -1,0 +1,11 @@
+{
+	// entity types are able to target specific entities in-game to attach certain attributes to them.
+	"entries": {
+		"minecraft:bogged": {
+			"ars_nouveau:ars_nouveau.perk.warding": {
+				"value": 0.0,
+				"fallback": 0.0
+			}
+		}
+	}
+}

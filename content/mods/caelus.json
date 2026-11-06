@@ -1,0 +1,23 @@
+{
+  "name": "Caelus API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "40FYwb4z",
+      "slug": "caelus",
+      "versionId": "KsfI4QsR",
+      "versionNumber": "7.0.1+1.21.1",
+      "filename": "caelus-neoforge-7.0.1+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar",
+      "sha1": "e4c2e1af4e3082d68f7df75f7c8ce30116d71515",
+      "sha512": "3763f95304ade2bacb217828c74eeef7905a114f71d41537d56121af58c182c2685467a5afb7e03ddb3997ec3d7496bdfdf71a9946a9f33e3470393e7a13306d",
+      "fileSize": 50235
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

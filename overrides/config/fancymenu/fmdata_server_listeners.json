@@ -1,0 +1,31 @@
+{
+  "listeners": [
+    {
+      "listener_name": "cmq.elevator",
+      "matching_type_identifier": "equals",
+      "matching_type_data": "equals",
+      "ignore_case_identifier": false,
+      "ignore_case_data": false,
+      "fire_for_player": "@p[x=-168,y=74,z=963]",
+      "listen_for_identifier": "minequest.elevator.fixed",
+      "listen_for_data": "1",
+      "commands_to_execute_on_fire": [
+        "tag %fm_sender% add mq.elevator.fixed"
+      ]
+    },
+    {
+      "listener_name": "statscreenrefresh",
+      "matching_type_identifier": "equals",
+      "matching_type_data": "equals",
+      "ignore_case_identifier": false,
+      "ignore_case_data": false,
+      "fire_for_player": "@a",
+      "listen_for_identifier": "stat.refresh",
+      "listen_for_data": "1",
+      "commands_to_execute_on_fire": [
+        "data merge storage ccstats:%fm_sender% {stealth.bonus:0}",
+        "execute store result storage ccstats:%fm_sender% \"stealth.bonus\" int 1 run scoreboard players get %fm_sender% stealth.bonus"
+      ]
+    }
+  ]
+}

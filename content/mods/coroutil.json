@@ -1,0 +1,22 @@
+{
+  "name": "CoroUtil",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "237749",
+      "slug": "coroutil",
+      "versionId": "7796187",
+      "versionNumber": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "filename": "coroutil-neoforge-1.21.0-1.3.9.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7796/187/coroutil-neoforge-1.21.0-1.3.9.jar",
+      "sha1": "0f5a6309ce8394721b97740e6f3e45665f13b8de",
+      "fileSize": 65716
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

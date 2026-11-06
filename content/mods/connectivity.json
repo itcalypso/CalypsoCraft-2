@@ -1,0 +1,22 @@
+{
+  "name": "Connectivity",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "470193",
+      "slug": "connectivity",
+      "versionId": "9008904",
+      "versionNumber": "connectivity-1.21.1-7.7.jar",
+      "filename": "connectivity-1.21.1-7.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9008/904/connectivity-1.21.1-7.7.jar",
+      "sha1": "b4900c9a46123e2c7d6bfd653abbced92aab560b",
+      "fileSize": 115891
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

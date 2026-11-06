@@ -1,0 +1,64 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "debug"
+	group: ""
+	id: "6F35653F1AB6AD82"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"74CA3DC71A23C54B"
+				"68321E1DB615AAFB"
+			]
+			id: "1D09212894A1A1BB"
+			tasks: [{
+				id: "1A12200AD4F20808"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"3932261C71600498"
+				"68321E1DB615AAFB"
+			]
+			hide_dependency_lines: true
+			id: "50853AC210F8D664"
+			tasks: [{
+				id: "770B81F420A60093"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			id: "5F1574E9B1BC52E2"
+			tasks: [{
+				id: "0FA4BC9908286DD1"
+				stage: "minequest.elevator.fixed"
+				type: "gamestage"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			id: "792D3BDE30DDBF2F"
+			tasks: [{
+				id: "5BDBB860ABC6665C"
+				item: { components: { "ars_nouveau:tome_caster": { hidden_text: "shorten curse scrolls enchant stretch ", is_hidden: 1b, spells: { 0: { color: { b: 180, g: 25, id: "ars_nouveau:constant", r: 255 }, name: "", particleTimeline: { }, recipe: [ "ars_nouveau:glyph_self", "ars_nouveau:glyph_wind_burst", "ars_nouveau:glyph_launch", "ars_nouveau:glyph_firework", "ars_nouveau:glyph_explosion", "ars_nouveau:glyph_aoe", "ars_nouveau:glyph_aoe", "ars_nouveau:glyph_aoe", "ars_nouveau:glyph_aoe", "ars_nouveau:glyph_aoe" ], sound: { } } } }, "minecraft:custom_name": "{\"color\":\"gold\",\"italic\":false,\"text\":\"Certified Blasting Manual\"}", "minecraft:lore": ["{\"color\":\"dark_red\",\"italic\":false,\"text\":\"It's covered in soot, and the pages are charred at the edge.\"}"] }, count: 1, id: "ars_nouveau:caster_tome" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.5d
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Create: Mob Spawners",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "bklciXlt",
+      "slug": "create-mob-spawners",
+      "versionId": "WxOTJbZI",
+      "versionNumber": "1.1.0",
+      "filename": "create_mob_spawners-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/bklciXlt/versions/WxOTJbZI/create_mob_spawners-1.1.0.jar",
+      "sha1": "5edb925959017684c8142717707aa7a776eca430",
+      "sha512": "0eb608179ca23be8670d503c057e2841718f9b452bf57a87ba498519e13dfeff27cc384820e2ca873da29f81690d7f1844bcf5c771e3803dfd9f24124adee596",
+      "fileSize": 255619
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

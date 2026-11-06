@@ -1,0 +1,22 @@
+{
+  "name": "Server Performance - Smooth Chunk Save",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "582327",
+      "slug": "smooth-chunk-save",
+      "versionId": "6296628",
+      "versionNumber": "smoothchunk-1.21-4.1.jar",
+      "filename": "smoothchunk-1.21-4.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6296/628/smoothchunk-1.21-4.1.jar",
+      "sha1": "f54d5d352e15560240f151a7d054096a33a58f4a",
+      "fileSize": 12852
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

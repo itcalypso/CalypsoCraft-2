@@ -1,0 +1,22 @@
+{
+  "name": "Create: Copper Splashing",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1266798",
+      "slug": "create-copper-splashing",
+      "versionId": "7370476",
+      "versionNumber": "coppersplashing_1.21.1_v1.jar",
+      "filename": "coppersplashing_1.21.1_v1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7370/476/coppersplashing_1.21.1_v1.jar",
+      "sha1": "9ae3b727c676859fcee0d5fb5f72e75673b5fa6a",
+      "fileSize": 16436
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

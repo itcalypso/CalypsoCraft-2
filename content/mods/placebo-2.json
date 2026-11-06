@@ -1,0 +1,24 @@
+{
+  "name": "Placebo",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "283644",
+      "slug": "placebo",
+      "versionId": "9153039",
+      "versionNumber": "Placebo 1.21.1-9.9.4",
+      "filename": "Placebo-1.21.1-9.9.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9153/39/Placebo-1.21.1-9.9.4.jar",
+      "sha1": "007d52a42020a331d5272495f6d676e0ad1a2c13",
+      "fileSize": 326063
+    }
+  },
+  "dependents": [
+    "271740"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

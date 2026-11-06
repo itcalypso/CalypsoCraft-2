@@ -1,0 +1,22 @@
+{
+  "name": "Structure Essentials",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "832882",
+      "slug": "structure-essentials-forge-fabric",
+      "versionId": "7962596",
+      "versionNumber": "structureessentials-1.21.1-5.0.jar",
+      "filename": "structureessentials-1.21.1-5.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7962/596/structureessentials-1.21.1-5.0.jar",
+      "sha1": "5c059c2cb2ad8c43e1384b0939bf258801aadfea",
+      "fileSize": 60833
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

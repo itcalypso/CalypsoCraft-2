@@ -1,0 +1,22 @@
+{
+  "name": "fix GPU memory leak",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "882495",
+      "slug": "fix-gpu-memory-leak",
+      "versionId": "5513549",
+      "versionNumber": "gpumemleakfix-1.21-1.8.jar",
+      "filename": "gpumemleakfix-1.21-1.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5513/549/gpumemleakfix-1.21-1.8.jar",
+      "sha1": "1894d2f0dd0c275aea0f1a6265ebd5715569c208",
+      "fileSize": 6574
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

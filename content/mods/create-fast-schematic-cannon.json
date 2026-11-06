@@ -1,0 +1,23 @@
+{
+  "name": "Create: FastSchematicCannon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DebMSCVn",
+      "slug": "create-fast-schematic-cannon",
+      "versionId": "e70DdjWe",
+      "versionNumber": "1.21.1-1.4.1-neoforge",
+      "filename": "CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DebMSCVn/versions/e70DdjWe/CreateFastSchematicCannon-1.4.1-neoforge-1.21.1.jar",
+      "sha1": "c9a7d099468adf6a011c4ce33fca62e1391b8c40",
+      "sha512": "87f7522b54b8cfaf0c1c5b2265b796d05ddc4234e1143bbc1c7c1e853e6c0a5183e077a5d929b4b4b0db40468d6b0149a46be9ef9b0d02827e6025fd448a1fb6",
+      "fileSize": 74294
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

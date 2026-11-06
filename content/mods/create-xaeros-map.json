@@ -1,0 +1,22 @@
+{
+  "name": "Create - Xaero's map",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1622142",
+      "slug": "create-xaeros-map",
+      "versionId": "8736099",
+      "versionNumber": "sablexaeromaps-1.21.1-1.4.0.jar",
+      "filename": "sablexaeromaps-1.21.1-1.4.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8736/99/sablexaeromaps-1.21.1-1.4.0.jar",
+      "sha1": "bf477a2e445a5c42bc06f476a4561f3e7fb2a914",
+      "fileSize": 108711
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

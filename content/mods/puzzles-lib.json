@@ -1,0 +1,30 @@
+{
+  "name": "Puzzles Lib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QAGBst4M",
+      "slug": "puzzles-lib",
+      "versionId": "1TmfTuyw",
+      "versionNumber": "21.1.62",
+      "filename": "puzzleslib-v21.1.62-mc1.21.1+neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/1TmfTuyw/puzzleslib-v21.1.62-mc1.21.1%2Bneoforge.jar",
+      "sha1": "0d1675576fe17acc1f350a5505177ae08c17299b",
+      "sha512": "241ff7229990305fe5f85521b9c11cd8e2e8d01cb94bbca987aae4d3d9ecbd9115a4b66f618a62d73ef1b569ff8c72434bc1354bbfaf2f69c0e997db034c4883",
+      "fileSize": 1450242
+    }
+  },
+  "dependents": [
+    "8pcjMDgj",
+    "9hx3AbJM",
+    "Dk6su9JN",
+    "OZBR5JT5",
+    "ZX66K16c",
+    "kfqD1JRw"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

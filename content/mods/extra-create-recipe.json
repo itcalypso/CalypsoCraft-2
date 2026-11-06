@@ -1,0 +1,22 @@
+{
+  "name": "Create Extra Recipes",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1266786",
+      "slug": "extra-create-recipe",
+      "versionId": "7370449",
+      "versionNumber": "extra_create_recipes_1.21.1_v1.jar",
+      "filename": "extra_create_recipes_1.21.1_v1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7370/449/extra_create_recipes_1.21.1_v1.jar",
+      "sha1": "58552805ec6e6ab5ea1069fa7fba676d18006470",
+      "fileSize": 2527
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

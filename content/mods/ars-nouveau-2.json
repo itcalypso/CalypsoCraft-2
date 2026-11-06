@@ -1,0 +1,25 @@
+{
+  "name": "Ars Nouveau",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "401955",
+      "slug": "ars-nouveau",
+      "versionId": "9423156",
+      "versionNumber": "ars_nouveau-1.21.1-5.13.4",
+      "filename": "ars_nouveau-1.21.1-5.13.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9423/156/ars_nouveau-1.21.1-5.13.4.jar",
+      "sha1": "50d712209c921e5af2d2983f424178c94277db0a",
+      "fileSize": 19872506
+    }
+  },
+  "dependents": [
+    "561470",
+    "833926"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

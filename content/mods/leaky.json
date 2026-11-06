@@ -1,0 +1,22 @@
+{
+  "name": "Leaky - Item Lag Fix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "856906",
+      "slug": "leaky",
+      "versionId": "8763884",
+      "versionNumber": "leaky-1.21-3.4.jar",
+      "filename": "leaky-1.21-3.4.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8763/884/leaky-1.21-3.4.jar",
+      "sha1": "2531009d47c3630ad5166a988cbbb3fb80839f07",
+      "fileSize": 40009
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

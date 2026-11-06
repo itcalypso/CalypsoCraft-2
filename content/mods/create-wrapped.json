@@ -1,0 +1,23 @@
+{
+  "name": "Create: Wrapped",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "93UfVKfq",
+      "slug": "create-wrapped",
+      "versionId": "nIjl2se6",
+      "versionNumber": "1.0.3",
+      "filename": "create_wrapped-1.0.3-neoforge-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/93UfVKfq/versions/nIjl2se6/create_wrapped-1.0.3-neoforge-1.21.1.jar",
+      "sha1": "5c2a8d32c7b20bc596ac9339bc529d2688f86c57",
+      "sha512": "bbe850805f4ba30bc6828972cdf2ace69506bb03df907b97f62468e19385824973525aad3d38d0279d13835bdca08a9c13e42101a52f967839bf63e186f349f2",
+      "fileSize": 724898
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,117 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fishmongers_assistant"
+	group: "7239D5B13D8C4769"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:cod"
+	}
+	id: "6C7C1200C1ABCCEE"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7E80B93AEDE98D8D"]
+			disable_toast: true
+			icon: {
+				id: "minecraft:fishing_rod"
+			}
+			id: "46725D9174831D0A"
+			tasks: [{
+				dialogId: "19bcd8bf-c981-3692-b9e1-cb9f759a09a2"
+				id: "01823F3AA5199710"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -13.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["46725D9174831D0A"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: false
+			icon: {
+				id: "minecraft:carrot"
+			}
+			id: "62070EFBAED2FED7"
+			tasks: [{
+				id: "01259FCDC7820036"
+				item: { count: 1, id: "minecraft:carrot" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["46725D9174831D0A"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:kelp"
+			}
+			id: "034D7D2D81C179F0"
+			tasks: [{
+				id: "548D40140B4411DB"
+				item: { count: 1, id: "minecraft:kelp" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["46725D9174831D0A"]
+			disable_toast: true
+			hide_until_deps_complete: true
+			icon: {
+				id: "farmersdelight:rice"
+			}
+			id: "427726D9BDEE121C"
+			tasks: [{
+				id: "479AE89D766437B2"
+				item: { count: 1, id: "farmersdelight:rice" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"62070EFBAED2FED7"
+				"034D7D2D81C179F0"
+				"427726D9BDEE121C"
+			]
+			disable_toast: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: false
+			icon: {
+				id: "farmersdelight:kelp_roll_slice"
+			}
+			id: "1605675EB40C1799"
+			tasks: [{
+				dialogId: "0cf6ef2e-6539-36e4-a17f-9fd76d53900c"
+				id: "020D41856A6C8A9D"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "minecraft:cooked_cod"
+			}
+			id: "4BEA7BB4C5F1D42C"
+			invisible: true
+			size: 2.0d
+			tasks: [{
+				dialogId: "0cf6ef2e-6539-36e4-a17f-9fd76d53900c"
+				id: "6BAD244B42A9A14F"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -5.5d
+			y: -4.0d
+		}
+	]
+}

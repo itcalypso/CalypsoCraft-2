@@ -1,0 +1,23 @@
+{
+  "name": "Create: Framed",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "15fFZ3f4",
+      "slug": "create-framed",
+      "versionId": "yioQUGiO",
+      "versionNumber": "1.8.2+1.21.1",
+      "filename": "createframed-1.21.1-1.8.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/15fFZ3f4/versions/yioQUGiO/createframed-1.21.1-1.8.2.jar",
+      "sha1": "222c998ffc62cd734e1318134c7f182c68f2b527",
+      "sha512": "38a3ad408a563543ebee89da2e3dd624188864d42d2d208ac695f2fc2240f6a3c26746ec516aa4b1e0ff45ced8de97317328dbae594bb18f914003680bceaf00",
+      "fileSize": 2871366
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

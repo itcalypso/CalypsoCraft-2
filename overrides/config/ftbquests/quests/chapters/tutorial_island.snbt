@@ -1,0 +1,119 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tutorial_island"
+	group: ""
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:writable_book"
+	}
+	id: "7E80B93AEDE98D8D"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "54F129882FFC1641"
+			tasks: [{
+				id: "4772AD82E98CD793"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54F129882FFC1641"]
+			id: "5DD1B09A0650F401"
+			tasks: [{
+				dialogId: "50af8909-a65f-3f67-9084-5e275adecb46"
+				id: "1C2563C51E87650C"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5DD1B09A0650F401"]
+			id: "5A64DADFE4E69A86"
+			tasks: [{
+				dialogId: "dd371ce8-30e7-35e8-887b-fd66fda3654c"
+				id: "6A5CA24785A1CF2E"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5A64DADFE4E69A86"]
+			id: "7A79DF40D57DB730"
+			tasks: [{
+				dialogId: "45ba4080-34aa-3307-aad4-1784a390851f"
+				id: "48386191722BD45A"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A79DF40D57DB730"]
+			id: "7A4F83730E9D6C00"
+			tasks: [{
+				dialogId: "afdf7f59-3fd1-3ca6-b9ef-48af1d6fb312"
+				id: "4FF446C6505CE50A"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7A4F83730E9D6C00"]
+			id: "25C539E7B21D806E"
+			tasks: [{
+				dialogId: "ec7bb970-6892-3d7d-b7c3-d281156e8810"
+				id: "2018FE17ACE30183"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["25C539E7B21D806E"]
+			id: "0B941895DD41D03C"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "783E7CF1578167F1"
+				ignore_dimension: false
+				position: [I;
+					-249
+					67
+					552
+				]
+				size: [I;
+					2
+					2
+					2
+				]
+				type: "location"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B941895DD41D03C"]
+			hide_dependency_lines: true
+			id: "19F614D2AAB86B22"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "minecraft:experience_bottle"
+				}
+				id: "36CA8098CC292212"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+	]
+}

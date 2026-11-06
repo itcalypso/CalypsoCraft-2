@@ -1,0 +1,22 @@
+{
+  "name": "EpheroLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "885449",
+      "slug": "epherolib",
+      "versionId": "5872111",
+      "versionNumber": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "filename": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5872/111/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+      "sha1": "0ee19acd03b6f03b568b2682b7e662bfd8af73ef",
+      "fileSize": 746263
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

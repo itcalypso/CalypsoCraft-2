@@ -1,0 +1,23 @@
+{
+  "name": "Dungeon's Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "qPfNr476",
+      "slug": "dungeons_delight",
+      "versionId": "mAuzCOhP",
+      "versionNumber": "1.5.1",
+      "filename": "neoforge-dungeonsdelight-1.21.1-1.5.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/qPfNr476/versions/mAuzCOhP/neoforge-dungeonsdelight-1.21.1-1.5.1.jar",
+      "sha1": "1a7fbb14c9844a2124169f0b2a3eb6fbb2b1848e",
+      "sha512": "5170e57d21a1e247c24a53e67b391cfe6278e841df43dabf58d6a3bd2c02ab18ff84ca44f05260dd5d4e4985c457719469d16cbfb016068f7603e584b30ba726",
+      "fileSize": 6906486
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

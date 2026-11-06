@@ -1,0 +1,23 @@
+{
+  "name": "NBT For Give",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NQE5xSm2",
+      "slug": "nbt-for-give",
+      "versionId": "H15MThfE",
+      "versionNumber": "1.4.2",
+      "filename": "nbt-for-give-1.4.2-mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NQE5xSm2/versions/H15MThfE/nbt-for-give-1.4.2-mc1.21.1.jar",
+      "sha1": "f3bbc53cb677e89267781e75204ddaec167ca1fb",
+      "sha512": "fed410463d49d620e09b5e8b65b5756ef27890e70cb3fd1aed8e5a64b130b0395934db131846cff3f45e16bca39af11a22e975f07eb790904322f803cfeeca8f",
+      "fileSize": 97042
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

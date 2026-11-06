@@ -1,0 +1,32 @@
+{
+  "name": "Just Enough Items (JEI)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "u6dRKJwZ",
+      "slug": "jei",
+      "versionId": "Tn0dgwL0",
+      "versionNumber": "19.57.0.450",
+      "filename": "jei-1.21.1-neoforge-19.57.0.450.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Tn0dgwL0/jei-1.21.1-neoforge-19.57.0.450.jar",
+      "sha1": "129a0aa982cd520ef8a35abddf592dc4d5655bd9",
+      "sha512": "7d1e6c484d4cb78dd1d784fc7fd6fac18a1e8daff0537c3c4ca18987506cd4bc500dc5c8dbb89e00997798cf0e662d9f5872ff785f847cdc3c108c88dff3171c",
+      "fileSize": 2253016
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "93UfVKfq",
+    "9Pk89J3g",
+    "DebMSCVn",
+    "UT2M39wf",
+    "bklciXlt",
+    "hSSqdyU1",
+    "nvQzSEkH"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

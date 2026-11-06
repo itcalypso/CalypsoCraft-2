@@ -1,0 +1,17 @@
+{
+  "name": "Create: Industrialized Architecture",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1316585",
+      "slug": "",
+      "versionId": "7350975"
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

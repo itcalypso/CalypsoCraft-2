@@ -1,0 +1,27 @@
+{
+  "name": "Just Enough Items (JEI)",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "238222",
+      "slug": "jei",
+      "versionId": "9205121",
+      "versionNumber": "19.64.0.455 for NeoForge 1.21.1",
+      "filename": "jei-1.21.1-neoforge-19.64.0.455.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9205/121/jei-1.21.1-neoforge-19.64.0.455.jar",
+      "sha1": "f6d6fc08d54c40752926b570a2220471e8c45c1a",
+      "fileSize": 2375741
+    }
+  },
+  "dependents": [
+    "417645"
+  ],
+  "optionalDependents": [
+    "404465"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

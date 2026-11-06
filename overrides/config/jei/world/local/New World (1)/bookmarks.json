@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"ars_nouveau:caster_tome","components":"{\"ars_nouveau:tome_caster\":{hidden_text:\"shorten curse scrolls enchant stretch \",is_hidden:1b,spells:{0:{color:{b:180,g:25,id:\"ars_nouveau:constant\",r:255},name:\"\",particleTimeline:{},recipe:[\"ars_nouveau:glyph_self\",\"ars_nouveau:glyph_wind_burst\",\"ars_nouveau:glyph_launch\",\"ars_nouveau:glyph_firework\",\"ars_nouveau:glyph_explosion\",\"ars_nouveau:glyph_aoe\",\"ars_nouveau:glyph_aoe\",\"ars_nouveau:glyph_aoe\",\"ars_nouveau:glyph_aoe\",\"ars_nouveau:glyph_aoe\"],sound:{}}}},\"minecraft:custom_name\":\u0027{\"color\":\"gold\",\"italic\":false,\"text\":\"Certified Blasting Manual\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"dark_red\",\"italic\":false,\"text\":\"It\\\u0027s covered in soot, and the pages are charred at the edge.\"}\u0027]}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"immersive_armors:bone_helmet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"dungeonsdelight:croak_monster"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,23 @@
+{
+  "name": "Chunk Activity Tracker",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BNuR43mM",
+      "slug": "chunk-activity-tracker",
+      "versionId": "ezAcslcX",
+      "versionNumber": "neoforge-1.21.1-1.0.1",
+      "filename": "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BNuR43mM/versions/ezAcslcX/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar",
+      "sha1": "cf068831c27693cc49b79a74ed252caa12351275",
+      "sha512": "353d240170fc3c37d7445b20579f814522bfa4526de57b9f26aef4cc5b1d48710ee0d675b5cb9fc4489815f5992f4ca6f0d1479b2fad9d03f7184ce8dd292273",
+      "fileSize": 385815
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "calypsocraft 2 dev 0.3",
+  "version": "0.0.3.1dev",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.256",
+  "channel": "alpha",
+  "formatVersion": 1
+}

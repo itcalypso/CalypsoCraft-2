@@ -1,0 +1,23 @@
+{
+  "name": "Terralith",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "8oi3bsk5",
+      "slug": "terralith",
+      "versionId": "IY93YaEe",
+      "versionNumber": "2.6.2",
+      "filename": "Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "sha1": "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224",
+      "sha512": "35298f1682567f63dc16658b04cee5498b30819f1c05f9712b4480d7f5eb17059db3b13ab14f81a05fe257149d11ced2cce2030d3727c1747edd8657c53e2a85",
+      "fileSize": 2814865
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

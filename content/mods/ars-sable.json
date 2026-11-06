@@ -1,0 +1,23 @@
+{
+  "name": "Ars Sable",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gmQUWgeV",
+      "slug": "ars-sable",
+      "versionId": "Dfd7emSI",
+      "versionNumber": "1.2.0",
+      "filename": "ars_sable-1.21.1-1.2.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gmQUWgeV/versions/Dfd7emSI/ars_sable-1.21.1-1.2.0.jar",
+      "sha1": "75559a6ef7179c606c2d509b32f6df60434b89a8",
+      "sha512": "04abd1262db3cbc64c720d7c5d53c62a72f7eb6fcdfe3814ca93d6f69fce0810d9f1b9abd3e1099b6ee99493152d3df7a13b73716027cac55809fbaec0163d75",
+      "fileSize": 183607
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

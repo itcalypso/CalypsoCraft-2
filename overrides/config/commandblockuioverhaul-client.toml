@@ -1,0 +1,17 @@
+#Command hierarchy palette: MODERN (IDEA Dark) or VANILLA (ChatFormatting).
+#Allowed Values: MODERN, VANILLA
+colorScheme = "VANILLA"
+breakBeforeOpenBracket = true
+breakAfterOpenBracket = true
+breakBeforeCloseBracket = true
+breakAfterCloseBracket = true
+breakAfterComma = true
+formatStrings = false
+avoidEmptyLines = true
+# Default: 2
+# Range: 0 ~ 16
+indentation = 2
+#Maximum visual line width in pixels; limited by available editor width.
+# Default: 300
+# Range: 10 ~ 6400
+wrapWidth = 300

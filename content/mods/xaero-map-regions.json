@@ -1,0 +1,23 @@
+{
+  "name": "Xaero Map Regions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "1PguXp5G",
+      "slug": "xaero-map-regions",
+      "versionId": "qIZp3v28",
+      "versionNumber": "1.0.8",
+      "filename": "xaeroregions-neoforge-1.21.1-1.0.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/1PguXp5G/versions/qIZp3v28/xaeroregions-neoforge-1.21.1-1.0.8.jar",
+      "sha1": "8cbe051a86918f343fc1eec6bc2a4ec6828fe24b",
+      "sha512": "a1977a17492c899e73346f6618820dfd5afd887bb554b23a4ea8868ddf2d1f9f3dcd7920a70d443c4a61f53c474bac5eeae5ec0bda4639650bacabcf8cb471a2",
+      "fileSize": 301809
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

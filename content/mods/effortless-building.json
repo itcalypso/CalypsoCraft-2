@@ -1,0 +1,23 @@
+{
+  "name": "Effortless Building",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DYtfQEYj",
+      "slug": "effortless-building",
+      "versionId": "YxnBXtLv",
+      "versionNumber": "4.2",
+      "filename": "effortlessbuilding-4.2+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/DYtfQEYj/versions/YxnBXtLv/effortlessbuilding-4.2%2B1.21.1.jar",
+      "sha1": "34af0d5e57f771fa9a37e6b1b5e59c38a03afd01",
+      "sha512": "bc1fccb3b2bae54119f4fd32030d88b32bfb362e706d8c75600f7909d15ca5db9b7cbd08e9e7fa71c79275f6b19e4c1a358586fefb24008e6b002ccb482a4a18",
+      "fileSize": 958842
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

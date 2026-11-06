@@ -1,0 +1,23 @@
+{
+  "name": "Chat Heads",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Wb5oqrBJ",
+      "slug": "chat-heads",
+      "versionId": "ZPylso9i",
+      "versionNumber": "0.15.7",
+      "filename": "chat_heads-0.15.7-neoforge-1.21.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ZPylso9i/chat_heads-0.15.7-neoforge-1.21.jar",
+      "sha1": "536b2af675229d2a33eb4cf5afbe7148a62d5f3f",
+      "sha512": "97ec4a08ffe54917591e7e05ba5ed9359e591719e4f3246745de36923a8080e68332aff28be437997c40a215b7aebc3537df892c99db4de6a5348ac7b4995144",
+      "fileSize": 91948
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

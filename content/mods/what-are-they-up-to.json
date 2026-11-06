@@ -1,0 +1,23 @@
+{
+  "name": "What Are They Up To (Watut)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AtB5mHky",
+      "slug": "what-are-they-up-to",
+      "versionId": "uWr2aTW9",
+      "versionNumber": "1.21.0-1.2.7",
+      "filename": "watut-neoforge-1.21.0-1.2.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AtB5mHky/versions/uWr2aTW9/watut-neoforge-1.21.0-1.2.7.jar",
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "sha512": "b96bd6146344a86e4ad45fd4c274a15f0e146bcc13747940f8b9f0ea21c8ea8bca4d005444f2bf8082f29ec7ad1ce03507764ddfbdda64ac9284d8ac400b44c5",
+      "fileSize": 432269
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

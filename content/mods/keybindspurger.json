@@ -1,0 +1,23 @@
+{
+  "name": "KeybindsPurger",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iaH7LvLy",
+      "slug": "keybindspurger",
+      "versionId": "3OyO3mcb",
+      "versionNumber": "1.3.3",
+      "filename": "keybindspurger-1.21.x-neoforge-1.3.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iaH7LvLy/versions/3OyO3mcb/keybindspurger-1.21.x-neoforge-1.3.3.jar",
+      "sha1": "ff99f103d30562b14aa33365aa526443c4eb94e3",
+      "sha512": "45259c71ab8be75d43f8c410431618955ffa6b31e644a95d6845e3ebab5d77680322eae357fd14aecf607e4151b75f7d877f4507840f8df1c21f897ac1ef4e0e",
+      "fileSize": 46127
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

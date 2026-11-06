@@ -1,0 +1,23 @@
+{
+  "name": "No Elytras",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eYUrd4ET",
+      "slug": "no-elytras",
+      "versionId": "unXEvxlJ",
+      "versionNumber": "1.0.0-1.21.x+mod",
+      "filename": "no-elytras-1.0.0-1.21.x.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eYUrd4ET/versions/unXEvxlJ/no-elytras-1.0.0-1.21.x.jar",
+      "sha1": "1a2fb907fd3348f583468118b5e5e504cc46145b",
+      "sha512": "5ef38abfe477496736c28058bea5f645ee701d54e8ffc04af7ee521f7df14462d010e3c4ca9fc7f88cccb8ed1fd91cef159f007aab5c32e088bc5663268439e1",
+      "fileSize": 43223
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

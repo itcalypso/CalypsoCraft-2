@@ -1,0 +1,23 @@
+{
+  "name": "Enchantments Encore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "GD1QoExk",
+      "slug": "enchantments-encore",
+      "versionId": "G0Ilv4nD",
+      "versionNumber": "1.8+mod",
+      "filename": "enchantments-encore-1.8.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/GD1QoExk/versions/G0Ilv4nD/enchantments-encore-1.8.jar",
+      "sha1": "ec6eb88cfc3d678b8f6921eb0047c0a7dc9ca8d8",
+      "sha512": "154a56ea445e2d96159cb1f9b18d50e4237bd4ced04ffef969b8c8f387ab82f397b0b6f804fa42bfb9a3b2ba9123d6c1d0bfa6b38c9169f8f3c6c6ad14353f3a",
+      "fileSize": 934594
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

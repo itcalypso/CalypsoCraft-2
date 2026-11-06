@@ -1,0 +1,23 @@
+{
+  "name": "Create: Tradeworks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gnOpd0sq",
+      "slug": "tradeworks",
+      "versionId": "zdkVXpwz",
+      "versionNumber": "1.0.7",
+      "filename": "tradeworks-1.0.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gnOpd0sq/versions/zdkVXpwz/tradeworks-1.0.7.jar",
+      "sha1": "d04d0d7dfac9a28593f2644c469ce608c4415f77",
+      "sha512": "9bf798f255973515a110491954cfe6b0a962e3a741a1be631f11df81dcc0cd86b7d1f4421c144383d152bc6f657f604cd243093524d2d82dd313e647aa47d74e",
+      "fileSize": 1631621
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

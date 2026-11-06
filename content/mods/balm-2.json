@@ -1,0 +1,24 @@
+{
+  "name": "Balm",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "531761",
+      "slug": "balm",
+      "versionId": "9406246",
+      "versionNumber": "balm-neoforge-1.21.1-21.0.67.jar",
+      "filename": "balm-neoforge-1.21.1-21.0.67.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9406/246/balm-neoforge-1.21.1-21.0.67.jar",
+      "sha1": "68c95ca8a6a87d26199d43ff6978bc94949329e3",
+      "fileSize": 786010
+    }
+  },
+  "dependents": [
+    "241160"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

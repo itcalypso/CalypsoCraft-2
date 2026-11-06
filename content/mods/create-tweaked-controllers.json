@@ -1,0 +1,23 @@
+{
+  "name": "Create: Tweaked Controllers",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "H6bJ8Ju4",
+      "slug": "create-tweaked-controllers",
+      "versionId": "csCe2v7f",
+      "versionNumber": "1.21.1-1.2.7",
+      "filename": "create_tweaked_controllers-1.21.1-1.2.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/H6bJ8Ju4/versions/csCe2v7f/create_tweaked_controllers-1.21.1-1.2.7.jar",
+      "sha1": "6358da213d0eff982c3431a8d004a3e912f7957a",
+      "sha512": "9b2aa5fcf70afd97e2473bb3cd230119d95aeb4f7e7318cb44fd8959add97d0f22cbe660c6d43c9bdb25825b68f9a7a2c11e9c24d55a706bded72bc011ede270",
+      "fileSize": 303343
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,116 @@
+type = user_variables
+
+variable {
+  name = minequest.selection
+  value = chain
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.bigcog.y
+  value = 132
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.bigcog.x
+  value = 92
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.cog.x
+  value = 526
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.cog.y
+  value = 300
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.piston.x
+  value = 38
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.piston.y
+  value = 124
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.selection.y
+  value = minequest.chain.y
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.pump.y
+  value = 294
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.pump.x
+  value = 488
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.belt.y
+  value = 250
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.belt.x
+  value = 60
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.spring.y
+  value = 74
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.spring.x
+  value = 108
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.strut.x
+  value = 502
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.chain.x
+  value = 512
+  reset_on_launch = false
+}
+
+variable {
+  name = mq.strut.y
+  value = 175
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.selection.x
+  value = minequest.chain.x
+  reset_on_launch = false
+}
+
+variable {
+  name = minequest.chain.y
+  value = 88
+  reset_on_launch = false
+}
+

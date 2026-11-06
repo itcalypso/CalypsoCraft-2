@@ -1,0 +1,22 @@
+{
+  "name": "Recipe Essentials",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "907856",
+      "slug": "recipe-essentials-forge-fabric",
+      "versionId": "8463998",
+      "versionNumber": "recipeessentials-1.21.1-4.7.jar",
+      "filename": "recipeessentials-1.21.1-4.7.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8463/998/recipeessentials-1.21.1-4.7.jar",
+      "sha1": "77c1796d445683b237b7391fe277388cd2ea0ee7",
+      "fileSize": 43983
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

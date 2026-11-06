@@ -1,0 +1,23 @@
+{
+  "name": "Command Block UI Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mcqC6yeB",
+      "slug": "command-block-ui-overhaul",
+      "versionId": "vQKgeabu",
+      "versionNumber": "1.1.0+mc1.21.1",
+      "filename": "commandblockuioverhaul-1.1.0+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mcqC6yeB/versions/vQKgeabu/commandblockuioverhaul-1.1.0%2Bmc1.21.1.jar",
+      "sha1": "6273abd9b45ca099e23abd5234cb59ffb5bc474b",
+      "sha512": "95ba64a0231138a1de19ea8457367aea6f6d79d557d0325cadb383b0f2792ed84e220c4e4b2b25256148568ae5602c3a424a4da764a7d24411e289c7a1f92181",
+      "fileSize": 74871
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

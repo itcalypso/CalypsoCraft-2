@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Armors",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eE2Db4YU",
+      "slug": "immersive-armors",
+      "versionId": "B2YtQYCh",
+      "versionNumber": "1.7.6+1.21.1",
+      "filename": "immersive_armors-1.7.6+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eE2Db4YU/versions/B2YtQYCh/immersive_armors-1.7.6%2B1.21.1-neoforge.jar",
+      "sha1": "4c5762af46c0beac0830d1f1e9c88332b120ceaa",
+      "sha512": "875852a2d6710c1b4da43026b345154b41751e4c1f987c7a19614c5f195a4d68ebbd93811da9868db83bf245aca2d15a35432b66730c17531f5e7006882a5d95",
+      "fileSize": 1274167
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

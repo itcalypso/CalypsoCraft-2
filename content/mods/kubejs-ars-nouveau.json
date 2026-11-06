@@ -1,0 +1,22 @@
+{
+  "name": "KubeJS Ars Nouveau",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "833926",
+      "slug": "kubejs-ars-nouveau",
+      "versionId": "7181937",
+      "versionNumber": "kubejsarsnouveau-1.3.2.jar",
+      "filename": "kubejsarsnouveau-1.3.2.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7181/937/kubejsarsnouveau-1.3.2.jar",
+      "sha1": "f39f4f409e628731be551fd961fac2964768d358",
+      "fileSize": 22770
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

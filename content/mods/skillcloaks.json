@@ -1,0 +1,23 @@
+{
+  "name": "Skillcloaks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SpoXB0Dc",
+      "slug": "skillcloaks",
+      "versionId": "4R7Nxxza",
+      "versionNumber": "1.2.7",
+      "filename": "skillcloaks-1.2.7.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SpoXB0Dc/versions/4R7Nxxza/skillcloaks-1.2.7.jar",
+      "sha1": "910bfb2ddfe405444f5d76bc0a54584cbd7c2054",
+      "sha512": "1fd2dd6f81ccd86bd1a99e45085fae5528281ebe80896b626d20b32a927e54b567e2d07f309b31d10d6383dcb30bc2570e89ab20ec9a83ee9da4b4d9aab8427f",
+      "fileSize": 194526
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

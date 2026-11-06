@@ -1,0 +1,23 @@
+{
+  "name": "Redirected",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hhnR8xqU",
+      "slug": "redirected",
+      "versionId": "B9DLRbbX",
+      "versionNumber": "neoforge-1.21.1-1.0.0",
+      "filename": "redirected-neoforge-1.0.0-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hhnR8xqU/versions/B9DLRbbX/redirected-neoforge-1.0.0-1.21.1.jar",
+      "sha1": "2704eeefedf52edc30d68c84e2ee0ccf4eea6da0",
+      "sha512": "029439eed72acb8501f06fd934da24a4a71290500bf2754cd1d497ed9fff380b0aff7f78b076a6a44fbaae31fa2313101ea622a83c3fafba748db70c8de7a530",
+      "fileSize": 217587
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

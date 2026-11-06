@@ -1,0 +1,23 @@
+{
+  "name": "Sidekick",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "goA2JoBi",
+      "slug": "sidekick",
+      "versionId": "RtqkrsvL",
+      "versionNumber": "2.0.6+1.21.1-neoforge",
+      "filename": "sidekick-neoforge-2.0.6+1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/goA2JoBi/versions/RtqkrsvL/sidekick-neoforge-2.0.6%2B1.21.1.jar",
+      "sha1": "d782fdbfddab5f7ff8360530775c4eb1b02e24d0",
+      "sha512": "172e4a025a45453a7af979bbeb23f04633cc26864864354a59d6a0464be76b52e5fd16b54fb07402ae9294841ac362611fe4f43e15d155166e9b1017f768837b",
+      "fileSize": 388472
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

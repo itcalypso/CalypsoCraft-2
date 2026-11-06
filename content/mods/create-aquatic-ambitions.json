@@ -1,0 +1,23 @@
+{
+  "name": "Create: Aquatic Ambitions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9SyaPzp7",
+      "slug": "create-aquatic-ambitions",
+      "versionId": "DoI3PpXj",
+      "versionNumber": "1.21.1-6.0.10-2.0.4",
+      "filename": "create_aquatic_ambitions-1.21.1-2.0.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9SyaPzp7/versions/DoI3PpXj/create_aquatic_ambitions-1.21.1-2.0.4.jar",
+      "sha1": "a02ce8ffc8395566c4fbe7907e721e82fd1b590b",
+      "sha512": "2150402262c8aefed2e4ce2dbf193fddcac61837983ebb7fe0a78d035c33229015033a63ff568fc1cfcf3914b4c5a3b511ebd8b1a8dc6e824a7a1d1639166c12",
+      "fileSize": 1074131
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

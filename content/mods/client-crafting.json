@@ -1,0 +1,22 @@
+{
+  "name": "Client Crafting",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "888790",
+      "slug": "client-crafting",
+      "versionId": "7920161",
+      "versionNumber": "clientcrafting-1.21-2.1.jar",
+      "filename": "clientcrafting-1.21-2.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7920/161/clientcrafting-1.21-2.1.jar",
+      "sha1": "ed816decf1ce06bd17b3a446b4fddd33b07ace40",
+      "fileSize": 7144
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

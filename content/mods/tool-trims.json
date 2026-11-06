@@ -1,0 +1,23 @@
+{
+  "name": "Tool Trims",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uXeEiQk1",
+      "slug": "tool-trims",
+      "versionId": "2MVXIAn7",
+      "versionNumber": "3.0.7+1.21.1",
+      "filename": "tool-trims-v3.0.7-for-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uXeEiQk1/versions/2MVXIAn7/tool-trims-v3.0.7-for-1.21.1.jar",
+      "sha1": "3ec0b1fd3b6efcdc541e81b2740b2177e67f7b50",
+      "sha512": "f4f9c557aaba2e9dc977775142a4b5583b56205f4e2c5a220bd304caba24187c89f9c8ab6712821b0554036ba416823aad8e2c2253bbd47ecbbbe0a08cdda6a6",
+      "fileSize": 1441954
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

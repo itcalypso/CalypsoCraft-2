@@ -1,0 +1,23 @@
+{
+  "name": "EasyNPC x FTB Quests Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tJfPbrsT",
+      "slug": "easynpc-x-ftb-quests-compat",
+      "versionId": "F648jfNJ",
+      "versionNumber": "1.21.1+1.0.2",
+      "filename": "easynpc-x-ftb-quests-compat-neoforge-1.21.1-1.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tJfPbrsT/versions/F648jfNJ/easynpc-x-ftb-quests-compat-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "69fe2579d89aa30e279d6d57f6cdb466bab5568e",
+      "sha512": "e7221b18d16521681290f6ed4a9f81d51e23a810824a99ab4eca01eca3d467396a1ce0a814507e10359fac727367cdd896442bd120a45dbecabe5b783b6d1e0b",
+      "fileSize": 65757
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

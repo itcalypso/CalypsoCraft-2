@@ -1,0 +1,27 @@
+{
+  "name": "Open Parties and Claims",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gF3BGWvG",
+      "slug": "open-parties-and-claims",
+      "versionId": "3i48dTzz",
+      "versionNumber": "neoforge-1.21.1-0.31.6",
+      "filename": "open-parties-and-claims-neoforge-1.21.1-0.31.6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gF3BGWvG/versions/3i48dTzz/open-parties-and-claims-neoforge-1.21.1-0.31.6.jar",
+      "sha1": "6d0ebc84bbb75322cb0ab45ffef6a54d3bc6adef",
+      "sha512": "6f8f2d570b6f674a9180576524b3ba507a3ad046ff319353cee50738644bf46c03ca460fb7c6880eed76f07eb2a26a983166d2510951202af86b3e120b743181",
+      "fileSize": 1826827
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "1bokaNcj",
+    "NcUtCpym"
+  ],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

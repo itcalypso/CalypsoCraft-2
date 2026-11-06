@@ -1,0 +1,23 @@
+{
+  "name": "Ars Nouveau's Flavors & Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BwbT0OZE",
+      "slug": "arsdelight",
+      "versionId": "JtS0qjOn",
+      "versionNumber": "2.2.5",
+      "filename": "arsdelight-2.2.5.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BwbT0OZE/versions/JtS0qjOn/arsdelight-2.2.5.jar",
+      "sha1": "b4f70c66225df03978eb6c4c00cdb9ad77b71eb8",
+      "sha512": "9b137608443d659ae05c6e9ca278e921e8521c9dea525652628a046c0eebc844a58eeec74070db9628012de2375d331d37c78ded6753e3d6c808c39601ca71c1",
+      "fileSize": 1252333
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

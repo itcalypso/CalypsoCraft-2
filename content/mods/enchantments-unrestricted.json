@@ -1,0 +1,23 @@
+{
+  "name": "Enchantments Unrestricted",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "tc6ETMWR",
+      "slug": "enchantments-unrestricted",
+      "versionId": "LCOia2ik",
+      "versionNumber": "neoforge-1.21.1-1.1.0",
+      "filename": "enchantmentsunrestricted-neoforge-1.21.1-1.1.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/tc6ETMWR/versions/LCOia2ik/enchantmentsunrestricted-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "e7889bef01499df397b44b2fce47ccb6d625033c",
+      "sha512": "625dce4c7f5bc497a96f83aad641b8c16dca7a9a1084598d7187759da5080e914e8e5d2b08da8c88243a664061affdbf8424f3edd42aab766930e4d42935e30d",
+      "fileSize": 13540
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

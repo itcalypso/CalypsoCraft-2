@@ -1,0 +1,23 @@
+{
+  "name": "Vintage Beams",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wFxisQXC",
+      "slug": "vintage-beams",
+      "versionId": "NyoOfEnS",
+      "versionNumber": "1.0.0",
+      "filename": "beams-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wFxisQXC/versions/NyoOfEnS/beams-1.0.0.jar",
+      "sha1": "0373433957c0b01addb7139116b9bbc74682374c",
+      "sha512": "edccd46f1576fb9204e6f1c4ecc78ad00b082b1a0967e75d35c2e2131684655a0094f128efcbce55f85b8cc4b396fca63031dfe86b83831160fe20a1c63837a8",
+      "fileSize": 133480
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

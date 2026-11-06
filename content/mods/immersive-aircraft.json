@@ -1,0 +1,23 @@
+{
+  "name": "Immersive Aircraft",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "x3HZvrj6",
+      "slug": "immersive-aircraft",
+      "versionId": "ZZTlNkV9",
+      "versionNumber": "1.5.2+1.21.1",
+      "filename": "immersive_aircraft-1.5.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/x3HZvrj6/versions/ZZTlNkV9/immersive_aircraft-1.5.2%2B1.21.1-neoforge.jar",
+      "sha1": "6f7dded9292e8bd32feb24082aad2987c72af908",
+      "sha512": "4b9f3d0050d0c4a683a5a64bc8b25d6dc4d84d15879e5dea00df9bbdd7655e060c4996692e894c8b0ef2a5c99254d72d835d366cc043642143298e04d70ca75f",
+      "fileSize": 2469769
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

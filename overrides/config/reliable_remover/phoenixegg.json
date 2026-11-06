@@ -1,0 +1,11 @@
+{
+    "action": "remove_loot",
+    "items": [
+    "wings_of_fire:petrified_fire_phoenix_egg",
+    "wings_of_fire:petrified_wind_phoenix_egg",
+    "wings_of_fire:petrified_red_phoenix_egg",
+    "wings_of_fire:petrified_nature_phoenix_egg",
+    "wings_of_fire:petrified_dark_phoenix_egg",
+    "wings_of_fire:petrified_gilded_phoenix_egg"
+            ]
+}

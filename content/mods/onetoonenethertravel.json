@@ -1,0 +1,22 @@
+{
+  "name": "One To One Nether Travel",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1235340",
+      "slug": "onetoonenethertravel",
+      "versionId": "6383951",
+      "versionNumber": "onetoonenethertravel-0.1.0.jar",
+      "filename": "onetoonenethertravel-0.1.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6383/951/onetoonenethertravel-0.1.0.jar",
+      "sha1": "1276d7a7a3890ab48a2b4d2e51fdbfda9fac63c8",
+      "fileSize": 5030
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

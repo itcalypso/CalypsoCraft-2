@@ -1,0 +1,22 @@
+{
+  "name": "Kotlin for Forge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "351264",
+      "slug": "kotlin-for-forge",
+      "versionId": "8335665",
+      "versionNumber": "Kotlin for Forge 5.12.0",
+      "filename": "kotlinforforge-5.12.0-all.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8335/665/kotlinforforge-5.12.0-all.jar",
+      "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b",
+      "fileSize": 7279276
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

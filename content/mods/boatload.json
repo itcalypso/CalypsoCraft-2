@@ -1,0 +1,23 @@
+{
+  "name": "Boatload",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hevpK888",
+      "slug": "boatload",
+      "versionId": "cizR5egt",
+      "versionNumber": "6.0.2",
+      "filename": "boatload-1.21.1-6.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hevpK888/versions/cizR5egt/boatload-1.21.1-6.0.2.jar",
+      "sha1": "fffd4975bdf2b1525e93b94c823ba4ae1649fbf7",
+      "sha512": "4814dd93098919ad4b5633a3f95ab1fe00e05d31ae114208c52de0ea3c23c605fa850ec877eb6e50cc10d18b42244d1e411b4f79d3252308465bb68f5f0a95e1",
+      "fileSize": 375132
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

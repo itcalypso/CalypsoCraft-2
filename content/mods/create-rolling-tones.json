@@ -1,0 +1,23 @@
+{
+  "name": "Create: Rolling Tones",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "eMSbM34C",
+      "slug": "create-rolling-tones",
+      "versionId": "6QNmBE48",
+      "versionNumber": "rolling_tones_0.2.2",
+      "filename": "rolling-tones-0.2.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/eMSbM34C/versions/6QNmBE48/rolling-tones-0.2.2.jar",
+      "sha1": "d70d0ad8f1dc00ffba316db953d151c793f02675",
+      "sha512": "737f119adaa07b0d885bc72705b0220d575f6ffc0d17f85f402bacee7ab4c2a0560bf65d77135fd85609510eb2526664e6e179b37eb64c029747cfe93fda0494",
+      "fileSize": 120235
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tips",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "AMCbgyVw",
+      "slug": "tips",
+      "versionId": "dFBz1Le7",
+      "versionNumber": "21.1.3",
+      "filename": "tipsmod-neoforge-1.21.1-21.1.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/AMCbgyVw/versions/dFBz1Le7/tipsmod-neoforge-1.21.1-21.1.3.jar",
+      "sha1": "34db760aa9a1a8cec512e32b93e51525dbcb3597",
+      "sha512": "553ba2f75c0d8d2b04b116be186c41e80fce123932cd739feb04eb65cc3ea14592fc5c26a2fe59de25fc7f73b8d0bf5085ce80edc3c7d499b8cf4e7a7e95d1f2",
+      "fileSize": 121037
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "optional"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "YUNG's API",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Ua7DFN59",
+      "slug": "yungs-api",
+      "versionId": "2prKITKh",
+      "versionNumber": "1.21.1-NeoForge-5.1.9",
+      "filename": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+      "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91",
+      "sha512": "7e3cf0b429e8a1c51dca094c2d8eabf12245bb42cbcd8b6e3e54959f931bef93201b81a08d200b417059aaa438e8eb445c3978a09568597bfb588199b7775967",
+      "fileSize": 413763
+    }
+  },
+  "dependents": [
+    "CU0PAyzb"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

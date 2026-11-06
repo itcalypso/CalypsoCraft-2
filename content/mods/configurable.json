@@ -1,0 +1,25 @@
+{
+  "name": "Configurable",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lGffrQ3O",
+      "slug": "configurable",
+      "versionId": "8gFREgfa",
+      "versionNumber": "3.5.2",
+      "filename": "configurable-3.5.2+1.21.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lGffrQ3O/versions/8gFREgfa/configurable-3.5.2%2B1.21.1-neoforge.jar",
+      "sha1": "995cb737fb267f39b1936771de38f252de90e9a9",
+      "sha512": "87f511ddd00d10c885b0e1f45c5cb38c67e46c2b1bbcc0ef1ee90a9f86ddc062435503782dd1b627394c04177ce5ff0c735d72cf6b26a520f11895116083a9a2",
+      "fileSize": 159182
+    }
+  },
+  "dependents": [
+    "1s5x833P"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

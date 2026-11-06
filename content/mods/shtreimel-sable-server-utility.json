@@ -1,0 +1,22 @@
+{
+  "name": "Shtreimel - Sable Utility",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1529625",
+      "slug": "shtreimel-sable-server-utility",
+      "versionId": "8973052",
+      "versionNumber": "shtreimel-neoforge-1.21.1-0.6.0.jar",
+      "filename": "shtreimel-neoforge-1.21.1-0.6.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8973/52/shtreimel-neoforge-1.21.1-0.6.0.jar",
+      "sha1": "a33b7e4162cf4fa2b4cdf43e0b673d19c747a003",
+      "fileSize": 481769
+    }
+  },
+  "dependents": [],
+  "clientSide": "unsupported",
+  "serverSide": "required"
+}

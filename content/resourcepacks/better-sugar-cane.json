@@ -1,0 +1,23 @@
+{
+  "name": "Ray's Better Sugarcane",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "TpNvnvBO",
+      "slug": "better-sugar-cane",
+      "versionId": "KkYKz1oJ",
+      "versionNumber": "1.6.4",
+      "filename": "Ray's Better Sugarcanezip v1.6.4.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/TpNvnvBO/versions/KkYKz1oJ/Ray%27s%20Better%20Sugarcanezip%20v1.6.4.zip",
+      "sha1": "1f5ad30f616db3138b7e0e9018c85481fc2949ba",
+      "sha512": "37a5de2d97fe61f7b27a7b337f02d8a974eadee340400dad4a6ab9ca46cb1c079578c911a82e19c935e7a723e8b768ebdf4d25f3b5c224d590f33f4b191f4674",
+      "fileSize": 31332
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

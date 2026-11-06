@@ -1,0 +1,22 @@
+{
+  "name": "TerraBlender (NeoForge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "940057",
+      "slug": "terrablender-neoforge",
+      "versionId": "6054947",
+      "versionNumber": "TerraBlender NeoForge 1.21.1-4.1.0.8",
+      "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/6054/947/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+      "sha1": "2016eed89eac0eb0510d2190c3b0b80bf4346191",
+      "fileSize": 120364
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

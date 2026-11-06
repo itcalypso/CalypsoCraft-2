@@ -1,0 +1,10 @@
+StartupEvents.registry('item', event => {
+event.create('access_pass')
+.displayName('Access Pass')
+.tooltip('Identifies you as a Blockup Co. employee.')
+.tooltip('Used in the quest: What\'s killing the crops?')
+event.create('blockup')
+.displayName('Blockup Herbicide Spray ')
+.tooltip('Garden Obliterator: 2001 Vintage')
+.tooltip('Used in the quest: What\'s killing the crops?')
+})

@@ -1,0 +1,23 @@
+{
+  "name": "Create: Gears n' Kinetics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gEWECBVL",
+      "slug": "gears-n-kinetics",
+      "versionId": "qr9hMBnj",
+      "versionNumber": "1.0m",
+      "filename": "GnKinetics-1.21.1-1.0m.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gEWECBVL/versions/qr9hMBnj/GnKinetics-1.21.1-1.0m.jar",
+      "sha1": "15cc60c8864ac8b5329723a55a97a548980611de",
+      "sha512": "d55d0c5ba37e7d6c2c81a83843e577580ec4cf47e8a1833b9f236d35c1b5ce577edc2ef2d579c4c4cc42f0b6df3ddccb6f7f61b569c337edd907024e6ca91709",
+      "fileSize": 560814
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

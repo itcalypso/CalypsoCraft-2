@@ -1,0 +1,550 @@
+{
+	chapter.288593948EAA957C.title: "What's killing the crops?"
+	chapter.2B0F93B8DBF031F7.title: "Thinking With Portals"
+	chapter.4011180EBAB01E94.title: "John Ballistic's Bazaar"
+	chapter.4DE70519E2BB625D.title: "The Coal Mine"
+	chapter.53F70E7A8B58A6C3.title: "Patrol Duty"
+	chapter.6C7C1200C1ABCCEE.title: "Fishmonger's Assistant"
+	chapter.6F35653F1AB6AD82.title: "DEBUG"
+	chapter.7E80B93AEDE98D8D.title: "Tutorial Island"
+	chapter_group.7239D5B13D8C4769.title: "Blacklung Bay"
+	chapter_group.7BDBE9E6543ADFBC.title: "The Wizard's Den"
+	image.00853D481073E921.title: "The Hangover Cure"
+	quest.01D5DC95F9F2CD9A.quest_desc: ["My paperwork was a quiz on general aptitude. I'm not sure how all that will help me in being a security guard, but I finished it. I should let John Hoss know."]
+	quest.01D5DC95F9F2CD9A.quest_subtitle: "Qualifications not necessary"
+	quest.01D5DC95F9F2CD9A.title: "Tell John Hoss you've finished your paperwork"
+	quest.01E80AF7270D4388.quest_desc: ["I need to continue the investigation until I find a good lead."]
+	quest.01E80AF7270D4388.quest_subtitle: "It's a fiasco"
+	quest.01E80AF7270D4388.title: "Find a good lead"
+	quest.029625AA934B5193.quest_subtitle: "DIY Munitions Factory Maintenace"
+	quest.034D7D2D81C179F0.quest_desc: [""]
+	quest.034D7D2D81C179F0.title: "Get a Kelp"
+	quest.040DF6E4DD755DF1.quest_desc: ["I knocked on the door to what looked like a secret hideout, and was taken and put in some kind of jail cell! I gotta get out of here!"]
+	quest.040DF6E4DD755DF1.quest_subtitle: "First time?"
+	quest.052A279CCA92FC93.quest_desc: [
+		"Big John Coal generously described the supports down in the mine as a deathtrap. I should see about fixing them up."
+		""
+		"Big John Coal might have some advice for me."
+	]
+	quest.052A279CCA92FC93.quest_subtitle: "Shaft maintenance"
+	quest.052A279CCA92FC93.title: "Fixing the support beams"
+	quest.06488AC16C365B78.quest_desc: ["Wizard John has instructed me to add the Conjuration, Abjuration, and Manipulation essences to the control panel of his Warping Apparatus."]
+	quest.06488AC16C365B78.quest_subtitle: "Movers, shakers, and producers"
+	quest.074E9E160A17AD9D.quest_desc: ["When I told John Foreman I killed the Thing, he seemed more upset then grateful! He gave me some gold and told me to never come back to the mine. What an asshole! Maybe I should talk to Big John Coal?"]
+	quest.074E9E160A17AD9D.quest_subtitle: "Some reward that was"
+	quest.07757C24FFE9E586.quest_desc: [
+		"Joey the Grange Man, the chairperson of the Grange, thanked me for bringing the Blockup herbicide to his attention. He said he would investigate the chemical and that they might be able to build a case on Blockup."
+		""
+		"              -o- REWARDS -o-"
+		""
+		"The lockpick"
+		"Access to Susie the Sharpener's Sneaky Services"
+		"Access to Fred the Farmer's supply store"
+	]
+	quest.07757C24FFE9E586.title: "Quest complete!"
+	quest.085268E514E0C0F1.quest_desc: ["I found a mineshaft leading into a disgusting hole full of gunk, twisting tendrils, and gross mushy walls. It looks like it goes much deeper... I guess I need to inside."]
+	quest.085268E514E0C0F1.quest_subtitle: "Hole of despair"
+	quest.085268E514E0C0F1.title: "Find a way to stop the Thing"
+	quest.09767F899173A719.quest_subtitle: "The Warping Apparatus"
+	quest.0B8B1F2844079CB2.quest_desc: [
+		"The pile of explosive looking stuff needs these spare parts:"
+		""
+		"16 chutes"
+		"8 mechanical belts"
+		"4 deployers"
+	]
+	quest.0B8B1F2844079CB2.quest_subtitle: "Bullet printing"
+	quest.0B8B1F2844079CB2.title: "Explosive looking stuff"
+	quest.0B941895DD41D03C.quest_desc: [
+		"John Treasurehunter told me about restricted and hidden items."
+		""
+		"Some powerful items are restricted and made uncraftable. I'll have to fulfill certain requirements to get my hands on them. The requirement will always be listed in the item's tooltip."
+		""
+		"There are also secret items that are hidden from recipe viewers. These include rare artifacts, custom weapons and armor, and special enchantments. I'll have to adventure around to find them!"
+		""
+		"All that's left is to jump in John's floor portal and I can finish the tutorial."
+	]
+	quest.0B941895DD41D03C.quest_subtitle: "Begin your adventure"
+	quest.0BADE9DF577DE580.quest_desc: ["I encountered some withered and dying part of the dungeon's brain. It \"spoke\" in fuzzy but clear sentences, and said something about it becoming \"unraveled\"... what the hell is the meaning of all this?"]
+	quest.0D3E0C4B102B0CE2.quest_desc: ["I found a strange creature in the dungeon, dour and hopeless."]
+	quest.0D3E0C4B102B0CE2.title: "Melancholic Ganglion"
+	quest.0DFB4E81158CFDF9.quest_desc: [
+		"One antidote vessel for 16 builder's tea."
+		""
+		"Can be redeemed once every 24 hours."
+	]
+	quest.0DFB4E81158CFDF9.quest_subtitle: "Very healthy"
+	quest.0DFB4E81158CFDF9.title: "Additional Antidotes"
+	quest.0F883ACEB7FBAA25.quest_desc: ["I found an entrance to the tunnels underneath Blacklung. It seems this is where the robbers of the merchant ship went to hide out. I should search the tunnels until I find something."]
+	quest.0F883ACEB7FBAA25.quest_subtitle: "One dash two, over"
+	quest.0F883ACEB7FBAA25.title: "Search the Blacklung tunnels"
+	quest.0FB4069652082222.quest_desc: ["I finished a patrol around town and nothing seemed out of the ordinary. I should go talk to the Security Supervisor."]
+	quest.0FB4069652082222.quest_subtitle: "That was boring"
+	quest.0FB4069652082222.title: "Report back to the Supervisor"
+	quest.10547843D94F1507.quest_desc: ["John gave me a six-tankard of beer for my efforts so far. Hell yeah."]
+	quest.10547843D94F1507.quest_subtitle: "Nothing like a work beer"
+	quest.15BB6D1C3639EE37.quest_desc: ["I spoke to the secretary. They agreed to let me into John Blacklung's office, so long as I could cure his hangover. Apparently, it's been disturbing the whole staff."]
+	quest.15BB6D1C3639EE37.quest_subtitle: "Boss from hell"
+	quest.15BB6D1C3639EE37.title: "Talk to John Blacklung"
+	quest.1605675EB40C1799.quest_desc: ["Bring all the ingredients back to Son of John Fishmonger. Make sure they're in your inventory!"]
+	quest.1605675EB40C1799.title: "Bring the ingredients back to John"
+	quest.1657BAB8AA49ACA7.quest_desc: ["I got a bit off-topic while talking to the secretary. He told me about the Unionists. He says that they promote ideas of workers rights for their own personal gain. He didn't seem too fond of them, but it almost seemed like he understood, even respected their supposed grift."]
+	quest.1657BAB8AA49ACA7.quest_subtitle: "That was kind of intense"
+	quest.1657BAB8AA49ACA7.title: "The Unionists"
+	quest.16E1AECDB54120A4.quest_desc: ["John Ballistic and I finished cleaning out all the junk and rubble from the building. John said he might have found treasure, I should check in with him before we continue."]
+	quest.16E1AECDB54120A4.quest_subtitle: "One John's trash"
+	quest.17FA01D798C518EC.quest_desc: [
+		"Around CalypsoCraft there are all sorts of locks waiting to be picked. You can get access to hidden places and cool treasure, as long as you're willing to break your way in. Certain equipment, like that lockpick you just found, makes crime easier!"
+		""
+		"There's probably a few treasure chests to crack into around here..."
+	]
+	quest.17FA01D798C518EC.title: "Crime for Dummies"
+	quest.18290445E1A78836.quest_desc: ["John Blacklung is a complete mess. Thankfully, he thinks I'm a real doctor that can cure his hangover. Unfortunately he'll only accept his \"special\" hangover cure, the one that \"works every time\"."]
+	quest.18290445E1A78836.quest_subtitle: "Wow, that really is a boss from hell"
+	quest.18290445E1A78836.title: "Find the special hangover cure"
+	quest.1832548650828733.quest_desc: ["I've added the spare parts to all of John Ballistic's machinery. I should let him know I finished."]
+	quest.1832548650828733.quest_subtitle: "Some assembly required"
+	quest.1832548650828733.title: "Tell John Ballistic you've added the spare parts"
+	quest.19489DF4943D6511.quest_desc: ["I... \"met\" some kind of raging and bloodthirsty part of this dungeon's brain. It demanded that I bring it \"plasma and the metal\", whatever that is."]
+	quest.19F614D2AAB86B22.quest_desc: [
+		"Thanks for playing CalypsoCraft 2"
+		""
+		"itcalypso - Design, Project Management, Code"
+		""
+		"Salem_069, Spruc3y, EamonThePro - Building and Design"
+	]
+	quest.19F614D2AAB86B22.quest_subtitle: "CalypsoCraft 2"
+	quest.19F614D2AAB86B22.title: "Tutorial Island"
+	quest.1A6AFBE55A36253A.quest_desc: ["I asked John Secretary about the \"special\" hangover cure. Apparently, some of the longshoremen in the harbor drink a special tea after they've had too much to drink. He mentioned one in particular, Dock Johnson, a renowned alcoholic."]
+	quest.1A6AFBE55A36253A.quest_subtitle: "Of drunkards and dockworkers"
+	quest.1B5272689B5376E4.quest_subtitle: "DIY Expert"
+	quest.1B5272689B5376E4.title: "All repairs done!"
+	quest.1BA9F44CB0F06CD2.quest_desc: [
+		"Big John Coal expressed his, and all of the miner's gratitude for the work I've done. Hopefully things will get better around here soon..."
+		""
+		"              -o- REWARDS -o-"
+		""
+		"8 gold ingots"
+		"Big John's Pickaxe"
+		"Access to the Gunk Dungeon"
+	]
+	quest.1BA9F44CB0F06CD2.quest_subtitle: "Friend of Coal Miners"
+	quest.1BA9F44CB0F06CD2.title: "Quest Complete!"
+	quest.1C1F294C7C95FB14.quest_desc: ["John Foreman didn't seem too pleased to see me, but offered me a job. He says that if I can take care of the \"Thing\" that was recently dug up, he'll be freed up to take care of some of the issues around the mine... I suppose I should see about getting access to this \"thing\" inside the mine."]
+	quest.1C1F294C7C95FB14.quest_subtitle: "The \"Thing\""
+	quest.1C1F294C7C95FB14.title: "John Foreman's big problem"
+	quest.1C80489F66CB21A3.quest_desc: ["The city gate is at the end of Market Street, on the south side of Blacklung Bay."]
+	quest.1C80489F66CB21A3.quest_subtitle: "Really makes you wish"
+	quest.1C80489F66CB21A3.title: "Patrol the town gate"
+	quest.1CC446303FE35F48.quest_desc: ["On the outskirts of Blacklung Bay, local farmer Fred has noticed his crops dying, for seemingly no reason! He swears that something unusual is going on, and is looking for someone to help him solve the mystery."]
+	quest.1D09212894A1A1BB.title: "dep_patrolduty_ballistics_antidote"
+	quest.213227AC79061641.quest_desc: ["Cigarette John said they saw some people who looked like they'd sprinted across town carrying crates duck into the alley in front of their house. Additionally, they said they'd seen similar-looking people go into that alley before."]
+	quest.222DB825DD2F2490.quest_subtitle: "Really makes you wish"
+	quest.222DB825DD2F2490.title: "Patrol the beach slums"
+	quest.25C539E7B21D806E.quest_desc: ["The Interactor Guide told me that CalypsoCraft has lots of special locations, and that a floating blue symbol means there is an Interactor. By right-clicking on Interactors, I can interact with the scenery. I should use the Interactor to find a way across the gap to find my next instructor."]
+	quest.25C539E7B21D806E.quest_subtitle: "Hidden items"
+	quest.26D6C4F054A278C9.title: "Secret: Pick the lockbox in the factory"
+	quest.26EC0EA045B7272D.quest_desc: ["Fred the Farmer says I should bring this herbicide to the attention of Joey, the chairperson of the Grange. He helps organize the farmer's efforts in the area, and has the authority to do something about the misuse of the chemical."]
+	quest.26EC0EA045B7272D.quest_subtitle: "Higher authority"
+	quest.2C894A30218C547D.quest_desc: [
+		"Big John Coal told me the crew elevator into the coalmine isn't safe at all. I should see about repairing it."
+		""
+		"Big John Coal might have some advice for me."
+	]
+	quest.2C894A30218C547D.quest_subtitle: "DIY Mechanical Engineering"
+	quest.2C894A30218C547D.title: "Repairing the elevator"
+	quest.2CF0C85BFF8520B1.quest_desc: [
+		"Well, I sort of managed to solve the miner's problems."
+		""
+		"The elevator is fixed, but it really ought to be maintained by an actual mechanic. I was only able to help the Structural Engineer put up some temporary wooden supports. And the best I could do for food was to get the mine a one-off shipment of fresh produce."
+		""
+		"Still, I should go update Big John Coal on my progress."
+	]
+	quest.2CF0C85BFF8520B1.quest_subtitle: "Temporary fix"
+	quest.2CF0C85BFF8520B1.title: "Return to Big John Coal"
+	quest.2D99954A1350E16B.quest_desc: ["The city of Blacklung Bay is policed by the Blacklung Trading Company's private security company. Lucky you, it seems like they're hiring! Talk to the head of security in the Blacklung Administration Building and see if you can get a job."]
+	quest.2D99954A1350E16B.quest_subtitle: "Blacklung PMC"
+	quest.2D99954A1350E16B.title: "Blacklung Security is hiring!"
+	quest.2E947130D7393F1C.quest_desc: ["John is putting the finishing touches on the structural pieces of the building that I repaired. He asked me to meet him outside once he finished. Hopefully we can get this project wrapped up soon."]
+	quest.2E947130D7393F1C.quest_subtitle: "John's Marvelous Mechanical Machine"
+	quest.2E947130D7393F1C.title: "Stage 3: Complex Machines"
+	quest.2F53F2D69AC6593D.quest_desc: ["This dungeon is incredibly strange. It's like I'm inside some giant monster's body, and it keeps giving me these psychic messages about esoteric knowledge. I can't begin to understand it..."]
+	quest.2F53F2D69AC6593D.quest_subtitle: "There is so much more than meets the eye"
+	quest.310D0E355917D06F.quest_desc: [
+		"It took a lot of work, but John Ballistic and I managed to build a firearms factory and gun store out of what was once an old, run down building! John told me to make sure I come back to check out the store."
+		""
+		"              -o- REWARDS -o-"
+		""
+		"Access to John Ballistic's Bazaar"
+		"The Pocket Piston and Digging Claws"
+		"Assorted scrap materials"
+		"A secret item... did you find it?"
+	]
+	quest.310D0E355917D06F.quest_subtitle: "Finally, a real weapon!"
+	quest.310D0E355917D06F.title: "Quest complete!"
+	quest.312B452088FC25F6.quest_desc: ["I managed to slay the Gunk Heart. I can come back any time for a rematch to get more loot."]
+	quest.312B452088FC25F6.quest_subtitle: "Monster hunted"
+	quest.312B452088FC25F6.title: "Boss Slain: Gunk Heart"
+	quest.324E2726187ACDC0.quest_desc: ["That was some pretty good loot! Now it's time to see what the next steps are. I should talk to John Ballistic inside the building."]
+	quest.324E2726187ACDC0.quest_subtitle: "Now it's a tidy deathtrap"
+	quest.324E2726187ACDC0.title: "Stage 2: Structural Repairs"
+	quest.33338B7FE56E77B0.quest_desc: [
+		"The machining supplies need these spare parts:"
+		""
+		"15 mechanical crafters"
+		"4 mechanical arms"
+	]
+	quest.33338B7FE56E77B0.quest_subtitle: "Making 100% of the gun"
+	quest.33338B7FE56E77B0.title: "Machining Supplies"
+	quest.3515A6D3149D1188.quest_desc: ["John Blacklung's office is locked tight, and the secretary at the front desk is giving me dirty looks. Still, I need to get this appointment somehow."]
+	quest.3515A6D3149D1188.quest_subtitle: "Bureacracy"
+	quest.3515A6D3149D1188.title: "Get an appointment with John Blacklung"
+	quest.3527D2BBB605B19C.quest_desc: ["It wasn't pretty, but I'm pretty sure I killed it. All of my gear smells terrible now. I guess I should go let John Foreman know?"]
+	quest.3527D2BBB605B19C.quest_subtitle: "That was disgusting"
+	quest.370B9006D6FC23DC.quest_desc: ["Farmer Fred told me about his mysteriously dying wheat. He suggested I talk to other farmers in the area to see if they're having crop troubles too."]
+	quest.370B9006D6FC23DC.quest_subtitle: "Crop talk"
+	quest.370B9006D6FC23DC.title: "Talk to local farmers until you find a clue"
+	quest.37351835BF374DD1.quest_desc: ["I added all four elemental essences to Wizard John's so-called Warping Apparatus. I should ask him what the next step is."]
+	quest.37351835BF374DD1.quest_subtitle: "Inscrutable contraptions abound"
+	quest.37351835BF374DD1.title: "Elemental essences complete"
+	quest.3932261C71600498.quest_desc: ["Dock Johnson is as drunk as can be in Coker's bar. If anyone would know a special hangover cure, it'd be him. He seems like he knows about the cure, but his lips are tight... and dry."]
+	quest.3932261C71600498.quest_subtitle: "Alcoholic Accomplishments"
+	quest.3932261C71600498.title: "Get Dock Johnson to share the cure"
+	quest.39D9A3E2469FBE38.quest_subtitle: "The Warping Apparatus"
+	quest.39E3C56025450E62.quest_desc: [
+		"Wizard John, using the power of the finished Warping Apparatus, says he has \"unfolded\" a new pocket dimension he calls the Wizard's Den. If I ever want to be his assistant again, I can find him there to help him out."
+		""
+		"              -o- REWARDS -o-"
+		""
+		"Access to the Wizard's Den"
+		"Access to warp scroll scribes and fast-travel portals"
+	]
+	quest.39E3C56025450E62.quest_subtitle: "The Wizard's Den"
+	quest.39E3C56025450E62.title: "Quest complete!"
+	quest.3A4793330324696A.quest_subtitle: "DIY Munitions Factory Maintenace"
+	quest.3A71D9C16F187E47.quest_desc: ["I finally got the recipe for the hangover cure from Dock Johnson. He said I can make it by mixing equal parts water and milk, as well as tree leaves, over heat. Hopefully this is the cure John Blacklung wants."]
+	quest.3A71D9C16F187E47.quest_subtitle: "Able-bodied businessman"
+	quest.3A71D9C16F187E47.title: "Sober up John Blacklung"
+	quest.3AC55F31F570DE9E.quest_desc: ["I finally have the lease agreement for the building. I should return it to John Ballistic so we can finally get started on making a gun factory."]
+	quest.3AC55F31F570DE9E.quest_subtitle: "Signed in... glowy magical ink"
+	quest.3AC55F31F570DE9E.title: "Bring the lease agreement to John Ballistic"
+	quest.3B19D30AB0AE3C37.quest_desc: [
+		"Big John Coal says that there's no good food for the miners to eat. I should try and find a new supply for them."
+		""
+		"Big John Coal might have some advice for me."
+	]
+	quest.3B19D30AB0AE3C37.quest_subtitle: "Bad eats"
+	quest.3B19D30AB0AE3C37.title: "Solving the food problem"
+	quest.3B3AA90EF74D7A5C.quest_desc: ["Nice work. You found every clue. Have a prize."]
+	quest.3B3AA90EF74D7A5C.quest_subtitle: "The Can Opener"
+	quest.3B3AA90EF74D7A5C.title: "Tequila Sunset"
+	quest.3C2CE43002BDDC3C.quest_desc: ["John Hoss is ready to hire me as a Blacklung security cadet. I just need to fill out my hiring paperwork first. The paperwork is on his desk."]
+	quest.3C2CE43002BDDC3C.quest_subtitle: "Pop quiz"
+	quest.3C2CE43002BDDC3C.title: "Fill out your hiring paperwork"
+	quest.3C5949CDA1E39406.quest_desc: ["I've done most of the work repairing the crumbling building. I should tell John Ballistic."]
+	quest.3C5949CDA1E39406.quest_subtitle: "Finishing touches"
+	quest.3C5949CDA1E39406.title: "Check in with John Ballistic once again"
+	quest.3C971E6E88B7B73B.quest_desc: ["I found a strange creature in the dungeon, seemingly warm and joyful."]
+	quest.3C971E6E88B7B73B.title: "Sanguine Ganglion"
+	quest.3DFF3DB56BC36D27.quest_subtitle: "The Control Panel"
+	quest.3DFF3DB56BC36D27.title: "Add the Abjuration Essence"
+	quest.3E26990E6916887B.quest_desc: [
+		"I found Fred the Farmer's daughter, Susie the Sharpener, in the Blockup sugar factory. She's the factory's machinist. She doesn't know anything about Blockup's farming practices, but happily gave me a tool to help my covert investigation - a lockpick, for even more breaking and entering."
+		""
+		"She said I might find something useful in the office. It should be connected to the building by a door nearby."
+	]
+	quest.3E26990E6916887B.quest_subtitle: "Breaking and entering"
+	quest.3E26990E6916887B.title: "Break into the office and find something useful"
+	quest.3FC4CE0532E8F9D4.quest_desc: ["After getting John Blacklung the hangover cure, he finally stopped shouting and we can actually talk. Now I need to strike a deal for the building with him."]
+	quest.3FC4CE0532E8F9D4.quest_subtitle: "Let's make a deal"
+	quest.3FC4CE0532E8F9D4.title: "Make a deal with John Blacklung"
+	quest.3FDF2823B985E463.quest_desc: ["John Vegetables II mentioned that it seems like nothing can grow around the sugarcane plantation, even though the sugarcane seems to grow just fine. This seems important, I should go tell Fred the Farmer."]
+	quest.3FDF2823B985E463.quest_subtitle: "Selective senescence"
+	quest.40C1628E537ACE02.quest_subtitle: "DIY Munitions Factory Maintenace"
+	quest.40C1628E537ACE02.title: "Floor 2: Repair the support beams"
+	quest.427726D9BDEE121C.title: "Get a Rice"
+	quest.43560D9403230BB6.quest_desc: ["I found some scary looking neon green liquid being used to treat the sugarcane. The label says it's some kind of herbicide. It seems like the workers are spraying this stuff all over the place, so it's probably the cause of all the dying crops. I should bring this back to Fred the Farmer."]
+	quest.43560D9403230BB6.quest_subtitle: "It's safe to drink!"
+	quest.4377AA8E7231B57E.quest_desc: ["Dock Johnson claimed he was busy drinking and didn't see anything related to the robbery. He seemed shifty when I asked him about it..."]
+	quest.4388EC904390DE65.quest_subtitle: "DIY Munitions Factory Maintenace"
+	quest.4388EC904390DE65.title: "Floor 1: Fix the boiler"
+	quest.43B2599724CCDADD.quest_desc: ["The Destitute Prole in the beach slum was extremely rude, but they did tell me that criminals like to hang out in the tunnels under the city. Hopefully they won't gut me like he hoped for."]
+	quest.46725D9174831D0A.quest_desc: ["The Son of John Fishmonger is in a bit of trouble. He has a &lvery important date&r coming up, and has nothing to serve his date but fish! It seems he is in need of an assistant."]
+	quest.46725D9174831D0A.quest_subtitle: "Getting up to some fishy errands"
+	quest.46725D9174831D0A.title: "Fishmonger's Assistant"
+	quest.477CB824537ADB48.quest_desc: ["I spoke with the Merchant Captain. He says that all of the valuables on the ship were untouched - the only thing the thieves took were tools and hardware."]
+	quest.477CB824537ADB48.title: "The Merchant Captain"
+	quest.48A24D40F464D6DC.quest_desc: ["Big John Coal appreciates what I was able to do, but told me that things won't get better long-term unless Foreman changes how he runs the mine. Big John Coal seemed pretty disheartened. I ought to give the Foreman a piece of my mind."]
+	quest.48A24D40F464D6DC.quest_subtitle: "Meeting with the manager"
+	quest.4A11C733174B3488.quest_desc: ["I've dropped off the TNT with John Blacklung's delivery guy. All I need to do is return to John Blacklung, and I can finally get the lease agreement."]
+	quest.4A11C733174B3488.quest_subtitle: "Finally... step 1 is done"
+	quest.4BC190A2863ECAAF.title: "Secret: Pick the farm supply chest in the plantation"
+	quest.4BEA7BB4C5F1D42C.quest_desc: [
+		"I gave all the ingredients to John so he could make his so-called special dinner. Hope it goes well for the guy."
+		""
+		"              -o- REWARDS -o-"
+		"8 bait"
+		"6 kelp rolls"
+	]
+	quest.4BEA7BB4C5F1D42C.quest_subtitle: "I don't know, still seems fishy"
+	quest.4ECD69A90FEE8B32.quest_desc: ["I found a strange creature in the dungeon. It seemed listless."]
+	quest.4ECD69A90FEE8B32.title: "Phlegmatic Ganglion"
+	quest.4F2FD2A815466E21.quest_desc: ["Market Street goes through the middle of town, and is lined with shops."]
+	quest.4F2FD2A815466E21.quest_subtitle: "Really makes you wish"
+	quest.4F2FD2A815466E21.title: "Patrol Market Street"
+	quest.4F6E53F632186119.quest_desc: ["The building really is a dump. It's full of random garbage and it's falling apart on the inside. Still, John Ballistic thinks we can fix it up. He says it belongs to the Blacklung Company, and if we want to use it, we're going to need to lease it from John Blacklung."]
+	quest.4F6E53F632186119.quest_subtitle: "Consider a tenant's union"
+	quest.4F6E53F632186119.title: "Enter Blacklung HQ"
+	quest.4FC0E394EA22FCBB.quest_desc: ["I found a strange creature in the dungeon, filled with rage."]
+	quest.4FC0E394EA22FCBB.title: "Choleric Ganglion"
+	quest.50853AC210F8D664.title: "dep_patrolduty_ballistics"
+	quest.54F129882FFC1641.quest_desc: [
+		"This is your quest journal. It lists every quest in CalypsoCraft. If you haven't started a quest, it will tell you where to begin."
+		""
+		"The quests themselves can vary greatly, from collecting ingredients for a meal to conquering dungeons. Completing quests will reward you with all sorts of things, such as new areas and better weapons!"
+		""
+		"Click the check mark to complete this step of the quest."
+	]
+	quest.54F129882FFC1641.quest_subtitle: "Learning the ropes"
+	quest.54F129882FFC1641.title: "The quest journal"
+	quest.5673E6419E27BC95.quest_subtitle: "The Warping Apparatus"
+	quest.56A5E49B5FF592B8.quest_desc: ["John Hoss says that I'm to report to the security supervisor by the merchant docks for my first assignment as a cadet. Hopefully it's something good!"]
+	quest.56A5E49B5FF592B8.quest_subtitle: "To the job site"
+	quest.573107DFA8748A69.quest_desc: ["After giving John Homeless a hot chicken sandwich, he told me that the robbers were Blacklung longshoremen, and that they've been hanging out in the tunnels a lot recently."]
+	quest.574A371F98A23260.quest_desc: [
+		"I struck a shady deal with John Blacklung. He needs explosives for his coal mines, but is being bogged down by regulations by an institution called \"3CO\". He told me that if I can bring him 256 blocks of TNT, we won't need to pay a deposit or worry about the first few months of rent."
+		""
+		"He instructed me to deliver the goods to his \"guy\", who will be waiting in the alley by the coal depot at night."
+		""
+		"256 TNT is a lot! Maybe I should check with John Ballistics for some help."
+	]
+	quest.574A371F98A23260.quest_subtitle: "OSHA disapproved"
+	quest.574A371F98A23260.title: "Deliver the explosives"
+	quest.5892B2802749380A.quest_desc: ["The Gunk Heart will uncommonly drop &5Foul Metal Scrap&r in addition to its usual loot. There might be a way to use these within the Gunk Dungeon to get something special..."]
+	quest.5892B2802749380A.quest_subtitle: "A wicked component"
+	quest.5892B2802749380A.title: "Foul Metal Scrap"
+	quest.5A64DADFE4E69A86.quest_desc: ["I finished talking to the CalypsoCraft guide. He told me to speak to my next instructor."]
+	quest.5A64DADFE4E69A86.quest_subtitle: "#1. Rule of Cool"
+	quest.5C7BC2325AA42EF3.quest_desc: ["Sketchy John is hanging out in sketchy places, and well, he's asking for some sketchy stuff too. Maybe there's something to gain from helping this weirdo who lives in industrial ruins."]
+	quest.5C7BC2325AA42EF3.quest_subtitle: "This guy is onto nothing"
+	quest.5C9761E70DA8BD81.quest_subtitle: "The Control Panel"
+	quest.5D853F946E932738.quest_desc: ["Tourist John said a group of \"dirty ruffians\" were running away from the docks with cargo in hand. He said they went east from the lighthouse, towards the city center."]
+	quest.5D853F946E932738.title: "Tourist John"
+	quest.5DB36768A943FAE1.title: "Spare parts added!"
+	quest.5DD1B09A0650F401.quest_desc: ["Very good! The quest log will always give you a clue on what the next step of the quest is. Talk to the CalypsoCraft Guide to continue."]
+	quest.5DD1B09A0650F401.quest_subtitle: "Does this feel familiar?"
+	quest.5DF00E0D9C08F3F3.quest_desc: ["This spot is right by the bamboo house where John Fishmonger lives, on the northeast corner of the city."]
+	quest.5DF00E0D9C08F3F3.quest_subtitle: "Really makes you wish"
+	quest.5DF00E0D9C08F3F3.title: "Patrol north of the harbor"
+	quest.5E31D84E572C58FE.quest_desc: [
+		"The Blacklung Coal mine has no shortage of problems. The miners are unhappy with the work conditions, and management hasn't done anything about it. Morale is low and mortality rates are high. Maybe someone can help improve the place."
+		""
+		"&9&lRequirements:&r &9No requirements, but combat gear and food is highly recommended.&r"
+	]
+	quest.5E9A19DB0A91AC29.quest_desc: ["John Ballistic explained that he is a gunsmith, and he believes this run-down building could be made into a weapons factory. He beckoned me to check out the inside of the building."]
+	quest.5E9A19DB0A91AC29.quest_subtitle: "Some bando"
+	quest.5E9A19DB0A91AC29.title: "Enter the building and speak to John"
+	quest.5F1574E9B1BC52E2.title: "QUEST"
+	quest.5F7BDBE87A42A649.quest_desc: ["Fred told me that if the sugarcane farm's owner, the Blockup Company, is to blame, his daughter might know why. She works at the Blockup Factory, but Fred tells me that security is tight and I'm going to have to sneak in somehow."]
+	quest.5F7BDBE87A42A649.quest_subtitle: "Stealth mission"
+	quest.5F7BDBE87A42A649.title: "Sneak into the Blockup factory and find Fred's daughter"
+	quest.60CD8EC702EDE188.quest_desc: [
+		"My supervisor seems to have found the missing cargo and is taking all the credit for the investigation. Whatever, I don't think I want any part in Blacklung Security anymore. At least I got paid."
+		""
+		"              -o- REWARDS -o-"
+		""
+		"Blacklung Cadet's Equipment"
+		"Four emeralds and two gold ingots in wages"
+		"Access to the Blacklung tunnels"
+		"A secret for finding every clue"
+	]
+	quest.60CD8EC702EDE188.quest_subtitle: "All in a days work?"
+	quest.62070EFBAED2FED7.quest_desc: [""]
+	quest.62070EFBAED2FED7.title: "Get a Carrot"
+	quest.65C4376255E16F45.quest_desc: ["The Sandwich Enjoyer at the Market Street sandwich shop says he say some shifty-looking guys carrying crates run down the road, turning east by the market square."]
+	quest.6678DC9C674E9DA7.quest_desc: ["A miner unlocked the gate that leads to the deep mine and the so-called Thing. I need to find it and figure out how to get rid of it."]
+	quest.6678DC9C674E9DA7.quest_subtitle: "It smells really bad in here"
+	quest.6678DC9C674E9DA7.title: "Find the Thing"
+	quest.67246DF76E12C3E5.quest_desc: ["I found a strangely quiet, wide-open chamber, full of more gunk, slime, and some strange looking creatures. They look like nerves, or veins... Standing in here makes me feel strange."]
+	quest.67246DF76E12C3E5.title: "The Brain"
+	quest.68321E1DB615AAFB.quest_desc: ["My supervisor told me that while I was away on patrol, the Charter Ship was robbed of its cargo! He's delegated the entire investigation to me. He instructed me to start by talking to witnesses around the area."]
+	quest.68321E1DB615AAFB.quest_subtitle: "DETECTIVE. ARRIVING. ON THE SCENE."
+	quest.68321E1DB615AAFB.title: "Special assignment: The merchant ship robbery"
+	quest.68A3F10B4DD66A79.quest_subtitle: "DIY Munitions Factory Maintenace"
+	quest.68A3F10B4DD66A79.title: "Floor 2: Replace the floorboards"
+	quest.68F01BA0BBC925FA.quest_subtitle: "The Warping Apparatus"
+	quest.692C03C78ACC70A2.quest_desc: ["I snuck into the Head of Personnel's office, and stole an employee badge from his locked chest. I should be able to walk around the area without getting kicked out, now. Time for some snooping, as usual."]
+	quest.692C03C78ACC70A2.quest_subtitle: "Act like you belong"
+	quest.6AC7131888068B22.quest_desc: ["Deep in the Blacklung tunnels, I found some kind of big metal gate. Looks like the perfect spot for a hideout, I should investigate."]
+	quest.6AC7131888068B22.quest_subtitle: "Secret hideout-coded door"
+	quest.6C9C7446EB608D55.quest_desc: ["My mysterious captors said that I'm not like the other security, and that I've made a mistake. Based on what they told me about what security does around Blacklung, I'm inclined to agree. They escorted me out of the tunnels on the condition that I keep their presence a secret, and told me some of the missing cargo would \"show up\" sooner or later... I guess I should report back to my supervisor."]
+	quest.6C9C7446EB608D55.quest_subtitle: "Incident report"
+	quest.6E821494CDF442BC.quest_desc: ["I added all the influential essences to the control panel of the Warping Apparatus. Reality feels a bit shaken up, but the machine should be complete. I should check in with Wizard John."]
+	quest.6E821494CDF442BC.quest_subtitle: "Unreality television"
+	quest.6E821494CDF442BC.title: "Influential Essences complete"
+	quest.7200E0C5CC92EB5C.quest_subtitle: "The Control Panel"
+	quest.729E251D34EE6EB9.quest_desc: ["We can finally start work on this factory. John Ballistic said the first step is to get tools. He asked for a set of iron tools for both of us: 2 pickaxes, 2 axes, and 2 shovels."]
+	quest.729E251D34EE6EB9.quest_subtitle: "Bando flipping"
+	quest.729E251D34EE6EB9.title: "Stage 1: Clearing the Rubble"
+	quest.74CA3DC71A23C54B.quest_desc: ["I gave John a hangover cure, and he gave me the Antidote Vessel as a reward!"]
+	quest.74CA3DC71A23C54B.quest_subtitle: "Why didn't he just use this?"
+	quest.759A34CFA614396A.quest_desc: ["I've added all the influential essences to the control panel. I should talk to Wizard John to finish up."]
+	quest.759A34CFA614396A.quest_subtitle: "Job done, hope it works"
+	quest.759A34CFA614396A.title: "Speak to Wizard John"
+	quest.7880878F937DE974.quest_desc: ["Sketchy John asked me for eight \"magic gems\" and a \"special scroll\". He could have been a bit clearer..."]
+	quest.7880878F937DE974.quest_subtitle: "Huh? What?"
+	quest.7880878F937DE974.title: "Items for Sketchy John"
+	quest.78938EEDDC15927A.quest_desc: ["John Ballistic has a business plan that will blow your mind. Although, it seems like he'll need a bit of help before his new venture will blast off. Perhaps you'd like to take a shot at it?"]
+	quest.78938EEDDC15927A.quest_subtitle: "BOOM!!!"
+	quest.7968A69F5124EA36.quest_desc: ["John Ballistic has told me he has some suppliers on \"alternative markets\" that can help us get the TNT to pay off Blacklung. One of them can provide 64 TNT per day, while the other can provide the materials to make 128 TNT per day. I should talk to John Ballistic to claim these materials."]
+	quest.7968A69F5124EA36.quest_subtitle: "I'm getting the feeling this is all very illegal"
+	quest.79CC5F8A06592660.quest_desc: [
+		"The chemistry lab needs these spare parts:"
+		""
+		"32 fluid pipes"
+		"4 mechanical mixers"
+		"4 basins"
+		"4 blaze burners"
+	]
+	quest.79CC5F8A06592660.quest_subtitle: "My chemical reactor"
+	quest.79CC5F8A06592660.title: "The Half-Built Chemistry Lab"
+	quest.7A4F83730E9D6C00.quest_desc: [
+		"John Wayfarer explained some important information about the world of CalypsoCraft to me."
+		""
+		"The world is 40k by 40k with a realistic climate. The north pole is at z:40k, and the equator is at z:-40k."
+		""
+		"He also told me about ways to get around CalypsoCraft quickly. I can fast travel with Merchant Captains, or by finding a wizard with Warp Scrolls and Warp Portals."
+		""
+		"I can also always build with Aeronautics to make a custom vehicle. If I find a group of Tinkers, they can build small airplanes for me."
+	]
+	quest.7A4F83730E9D6C00.quest_subtitle: "Interesting interactions"
+	quest.7A79DF40D57DB730.quest_desc: ["Cool Guy told me that CalypsoCraft has only one rule: the Rule of Cool. So long as I'm cool to my fellow gamer and don't take advantage of any buggy stuff, I should be good. Time to talk to my next instructor."]
+	quest.7A79DF40D57DB730.quest_subtitle: "Getting around"
+	quest.7A79DF40D57DB730.title: "Talk to John Wayfarer"
+	quest.7A9FBC6C0C53DA04.quest_desc: ["I encountered some part of this dungeon's brain... it doesn't seem to say anything, but it gave me some sort of esoteric vision of creation... and it offered me trades?"]
+	quest.7C1C0537341740AF.quest_desc: ["I found a strange passageway deep in the dungeon. I can hear strange and terrible noises coming from within... maybe this is what I'm looking for?"]
+	quest.7C1C0537341740AF.quest_subtitle: "IT LIVES!"
+	quest.7C1C0537341740AF.title: "The horrible hole"
+	quest.7C265DE5D1D5289E.quest_desc: ["Sketchy John, who turns out to be Wizard John in disguise, has teleported me to his personal pocket dimension! He must have a reason, I should speak to him."]
+	quest.7C265DE5D1D5289E.quest_subtitle: "Nice spot, dawg"
+	task.01823F3AA5199710.title: "Speak to Son of John Fishmonger to begin."
+	task.020D41856A6C8A9D.title: "Talk to Son of John Fishmonger"
+	task.024CE6F05BD6590E.title: "Talk to John Ballistic in the newly-refurbished building"
+	task.031E55D86E7E99C9.title: "Idic Matter"
+	task.03F4689B06D1CB57.title: "BEER GET!"
+	task.04D36D6297B4AA1B.title: "Add the Water Essence"
+	task.06F060D5E907294B.title: "Find a way to repair the supports in the mine"
+	task.08419F6C40D1D6B5.title: "Bring John Ballistic the tools"
+	task.0C29248D6AEE3F7D.title: "Investigate the sugarcane plantation for clues"
+	task.0CBE86189F942CB8.title: "Find Sketchy John"
+	task.0EDFE142317056DC.title: "Repair the support beams"
+	task.0F989B10F5C02DB2.title: "Add the Air Essence"
+	task.11F8281A66CDFA59.title: "Ask around to see how the farmers' crops are doing"
+	task.1383DD7B1E6316A2.title: "Speak with John Foreman"
+	task.1523F2D9C8904D1F.title: "Dock Johnson"
+	task.155F410AE0585909.title: "Find a way into the Blockup factory"
+	task.16E9508A2C411411.title: "Talk to John Ballistic inside the building"
+	task.17087B36C6402BBC.title: "Added all the elemental essences"
+	task.19961E4F2A27A29F.title: "Quest complete!"
+	task.1AC1730306C5BB3B.title: "Found something strange"
+	task.1B7226F2D404AA1F.title: "Bring the can of Blockup Herbicide to Fred"
+	task.1C2563C51E87650C.title: "Talk to the CalypsoCraft Guide"
+	task.1E167AF52747B369.title: "Withered Matter"
+	task.1ECFA5A47B96562B.title: "Add spare parts to the explosive looking stuff"
+	task.2018FE17ACE30183.title: "Jump the bridge and find your next instructor"
+	task.22984AC7EC8C75EC.title: "Replace the floorboards"
+	task.22E5CC0FEA851B03.title: "Apathy"
+	task.2418F479713C76C8.title: "Fix the boiler"
+	task.24B4DE828C39A393.title: "Give John Blacklung the hangover cure"
+	task.270919F3BBC47FF5.title: "Add the Fire Essence"
+	task.2B4E46A06B2BF479.title: "Found the Farm Supply chest"
+	task.2E9C159543D93F04.title: "Add the Earth Essence"
+	task.2ED55A49A4655D8D.title: "Tell Fred what you learned"
+	task.2F4CC10C236C4201.title: "Add spare parts to the machining supplies"
+	task.308D21B32ACF0502.title: "Figure out how to fix the elevator"
+	task.31B418D5CBD010FB.title: "Abjuration Essence"
+	task.323EC207CCE90FFF.title: "Talk to Wizard John"
+	task.33B2574A0B68EDDD.title: "Superegotic Matter"
+	task.33CAA105E4825C9E.title: "Talk to John Ballistic inside the old building"
+	task.347381F80821CD21.title: "Get a clue from the destitute prole"
+	task.36CA8098CC292212.title: "Tutorial Complete!"
+	task.36EE3B36A117A4BD.title: "Add all the spare parts"
+	task.36FE48E4D1D4F7B2.title: "Speak to Big John Coal to begin"
+	task.375C88FD67D4C328.title: "Someone's gotta know, right?"
+	task.37DF372ED0D08387.title: "Got a clue from Tourist John"
+	task.38B6721FA3F9BFBF.title: "John Blacklung"
+	task.3926BBE813386E11.title: "The Can Opener"
+	task.3A18A792A0684B08.title: "Get a clue from John Homeless"
+	task.3BA965E9422302B2.title: "You are being tutorialized"
+	task.3BCCBC2E250AD1E9.title: "Speak with John Blacklung"
+	task.3E43471C0E8528CF.title: "Strange knowledge"
+	task.4066076FDC5517FB.title: "Report back to your supervisor"
+	task.424D210D7D3434CD.title: "Find the guy in charge"
+	task.431A1AB4425BE8EF.title: "Investigate the rusty gate"
+	task.439E756642BE23FA.title: "Return to John Foreman"
+	task.43A0B88FD4B2D876.title: "Get entry to the deep mines"
+	task.43D8213E84FF8746.title: "Added all the influential essences"
+	task.45DA62656B68AF38.title: "-217 64 582"
+	task.4652051890920ADE.title: "Find something in the Blacklung tunnels"
+	task.4772AD82E98CD793.title: "I understand!"
+	task.48055015738FD07E.title: "Bring the can of Blockup Herbicide to Joey at the Grange"
+	task.48386191722BD45A.title: "Talk to John Wayfarer"
+	task.48C4ABE208487D15.title: "Quest complete!"
+	task.4AEA3CD10DA4EF9B.title: "-292 64 631"
+	task.4CBC0DA4FCBD4E4F.title: "Find a food supplier for the miners"
+	task.4F591E19241657A7.title: "Speak to Wizard John"
+	task.4FF446C6505CE50A.title: "Interact with the Interactor"
+	task.533B90DDABD7F4F7.title: "Bring 256 TNT to John Blacklung's \"guy\""
+	task.53A3DFCE8223EE8A.title: "Finish the repairs"
+	task.53CB27F671D15F52.title: "Killed the Gunkheart!"
+	task.540C4EE4F1BBC232.title: "Talk to the security supervisor"
+	task.5436F9FCB44A4F7B.title: "Enable Dock Johnson's alcoholism"
+	task.549E262C98229251.title: "Depression"
+	task.5529CB8E6673FA9B.title: "Negotiate your freedom"
+	task.55AFAC5F99233E74.title: "Talked to the secretary"
+	task.55E51A4E6B1143B1.title: "Strike a deal for the building with John Blacklung"
+	task.56406DBEC381E2CD.title: "Enter the building and speak to John"
+	task.5951CF1CA96567DD.title: "Mirth"
+	task.5A0EC1E0D0565EC6.title: "Got a clue from the Merchant Captain"
+	task.5B41E9E160421FC5.title: "Getting an Appointment"
+	task.5BD6C11942E4FEA0.title: "-257 65 624"
+	task.5C08A77CC26DE00E.title: "Repair the support beams"
+	task.5D44417FE41B9C78.title: "Speak to John Hoss"
+	task.5D5FB85BABEDD4D2.title: "Special Assignment!"
+	task.5F8CA36200980A87.title: "Talked to the secretary some more"
+	task.61A23D17B94D8444.title: "Add the Manipulation Essence"
+	task.62A0CFB98A8A1325.title: "Speak to Farmer Fred"
+	task.62DB1BDFB210A148.title: "Talk to Big John Coal"
+	task.64F3A06A810217C0.title: "Somewhere..."
+	task.65370EC6A02BFF18.title: "Sandwich Enjoyer"
+	task.66BA2AFABD1030C1.title: "Talk to Big John Coal at the mine"
+	task.69E951AF1293CAB0.title: "Give Sketchy John the items he asked for"
+	task.6A5CA24785A1CF2E.title: "Speak to Cool Guy"
+	task.6AA73130A2ED090D.title: "Replace the floorboards"
+	task.6BAD244B42A9A14F.title: "Quest Complete!"
+	task.6C1A142C778AA546.title: "Find John Ballistic"
+	task.6D6D078EC38B047C.title: "Recieve the Antidote Vessel"
+	task.6DD0B57026309D01.title: "-257 65 671"
+	task.6EA4D06E0366F472.title: "Cigarette John"
+	task.6EF565B7C9A98E2D.title: "Enter Blacklung HQ"
+	task.6F4DCBF601CEFB2D.title: "Fill out your hiring paperwork"
+	task.70F043C7D15B1E23.title: "Speak to Wizard John and find out why you're here"
+	task.7173607E2035A900.title: "Check with with John Ballistic inside the building"
+	task.7289B6EBA9BD4262.title: "Found the Factory Lockbox"
+	task.7406E7683C9E52B0.title: "Learned about John Ballistic's suppliers"
+	task.766DF36D80FC1B68.title: "Enter the Horrible Hole and kill whatever is in it"
+	task.76846680A090BDF6.title: "Talk to John Ballistic inside the refurbished building"
+	task.770B81F420A60093.title: "dummy_dockjohnson_ballistics_done"
+	task.77623FEAD31F5919.title: "Talk to John Ballistics and get some cool junk"
+	task.783E7CF1578167F1.title: "Jump in John's floor portal to finish the tutorial"
+	task.78EDA3198B614976.title: "Quest complete!"
+	task.7985B7BDF8DB690A.title: "Report to the supervisor at the docks"
+	task.7998A4B33BECFCBC.title: "QUEST COMPLETE"
+	task.79B49E533083F651.title: "Search for a way to stop the Thing"
+	task.7A4037C4DE89B4D0.title: "Add the Conjuration Essence"
+	task.7BB7CA1FFB34D34F.title: "Find the Thing"
+	task.7BD3A00CA7D0AD71.title: "Rage"
+	task.7BD4961EEF125E76.title: "Add spare parts to the half-built chemistry lab"
+	task.7C55B5494E9BBE96.title: "Find something to help the investigation"
+	task.7D9B0E6431719FC9.title: "Crime!"
+}

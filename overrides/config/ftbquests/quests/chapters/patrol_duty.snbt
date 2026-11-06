@@ -1,0 +1,465 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "patrol_duty"
+	group: "7239D5B13D8C4769"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:iron_sword"
+	}
+	id: "53F70E7A8B58A6C3"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7E80B93AEDE98D8D"]
+			id: "2D99954A1350E16B"
+			tasks: [{
+				dialogId: "f0eab04c-81b7-3321-8a93-fd7b93026866"
+				id: "424D210D7D3434CD"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01D5DC95F9F2CD9A"]
+			id: "56A5E49B5FF592B8"
+			tasks: [{
+				dialogId: "a89e76d3-060d-36e1-a7ec-7ec112c5544f"
+				id: "7985B7BDF8DB690A"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56A5E49B5FF592B8"]
+			id: "4F2FD2A815466E21"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "5BD6C11942E4FEA0"
+				ignore_dimension: false
+				position: [I;
+					-257
+					65
+					624
+				]
+				size: [I;
+					3
+					3
+					3
+				]
+				type: "location"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["56A5E49B5FF592B8"]
+			id: "222DB825DD2F2490"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "4AEA3CD10DA4EF9B"
+				ignore_dimension: false
+				position: [I;
+					-292
+					64
+					631
+				]
+				size: [I;
+					3
+					3
+					3
+				]
+				type: "location"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["56A5E49B5FF592B8"]
+			id: "5DF00E0D9C08F3F3"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "45DA62656B68AF38"
+				ignore_dimension: false
+				position: [I;
+					-217
+					64
+					582
+				]
+				size: [I;
+					3
+					3
+					3
+				]
+				type: "location"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["56A5E49B5FF592B8"]
+			id: "1C80489F66CB21A3"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "6DD0B57026309D01"
+				ignore_dimension: false
+				position: [I;
+					-257
+					65
+					671
+				]
+				size: [I;
+					3
+					3
+					3
+				]
+				type: "location"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4F2FD2A815466E21"
+				"5DF00E0D9C08F3F3"
+				"222DB825DD2F2490"
+				"1C80489F66CB21A3"
+			]
+			id: "0FB4069652082222"
+			tasks: [{
+				id: "540C4EE4F1BBC232"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0FB4069652082222"]
+			id: "68321E1DB615AAFB"
+			invisible: true
+			size: 2.0d
+			tasks: [{
+				dialogId: "dd18ed5a-44b0-319b-a9a7-9fed9d324414"
+				icon: {
+					id: "create_things_and_misc:magnifying_glass"
+				}
+				id: "5D5FB85BABEDD4D2"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			hide_until_deps_complete: true
+			id: "01E80AF7270D4388"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: {
+					id: "create_things_and_misc:magnifying_glass"
+				}
+				id: "64F3A06A810217C0"
+				ignore_dimension: false
+				position: [I;
+					-232
+					64
+					619
+				]
+				size: [I;
+					2
+					2
+					2
+				]
+				type: "location"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "477CB824537ADB48"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "78255829-c0fe-3e15-a351-6bc067f5dda5"
+				id: "5A0EC1E0D0565EC6"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5D853F946E932738"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "884f8353-114a-3336-add9-d5d793397aeb"
+				id: "37DF372ED0D08387"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/info"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "65C4376255E16F45"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "2b2c42b2-551d-3239-8bdd-cd2bb80034f1"
+				id: "65370EC6A02BFF18"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/info"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "43B2599724CCDADD"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "66ac17b4-e61d-3220-9907-f95c04f7644b"
+				id: "347381F80821CD21"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/info"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "573107DFA8748A69"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "b11e741d-aa13-3752-8abe-2c5c96d8d8d9"
+				id: "3A18A792A0684B08"
+				optional_task: true
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/info"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4377AA8E7231B57E"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "2d9f17d0-1f26-3763-98e5-d0d17655c49e"
+				id: "1523F2D9C8904D1F"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["68321E1DB615AAFB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/info"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "213227AC79061641"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "0a0dc5b1-0365-3722-a94a-e83edd0af860"
+				id: "6EA4D06E0366F472"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["01E80AF7270D4388"]
+			id: "0F883ACEB7FBAA25"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "4652051890920ADE"
+				ignore_dimension: false
+				position: [I;
+					-242
+					60
+					596
+				]
+				size: [I;
+					4
+					2
+					4
+				]
+				type: "location"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F883ACEB7FBAA25"]
+			id: "6AC7131888068B22"
+			tasks: [{
+				dialogId: "e41a07ce-8a0b-3ce9-a813-d4b2dea49b86"
+				id: "431A1AB4425BE8EF"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AC7131888068B22"]
+			id: "040DF6E4DD755DF1"
+			tasks: [{
+				dialogId: "60350654-75e3-3ece-82f0-d5df2ff086e9"
+				id: "5529CB8E6673FA9B"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["040DF6E4DD755DF1"]
+			id: "6C9C7446EB608D55"
+			tasks: [{
+				dialogId: "65b284a6-3d3c-3974-bbc6-63a89d29f6d2"
+				id: "4066076FDC5517FB"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "60CD8EC702EDE188"
+			invisible: true
+			size: 2.0d
+			tasks: [{
+				dialogId: "65b284a6-3d3c-3974-bbc6-63a89d29f6d2"
+				id: "78EDA3198B614976"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 20.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C2CE43002BDDC3C"]
+			id: "01D5DC95F9F2CD9A"
+			tasks: [{
+				dialogId: "bc51bc3f-8030-3178-a23a-bc75340eb77e"
+				id: "5D44417FE41B9C78"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D99954A1350E16B"]
+			id: "3C2CE43002BDDC3C"
+			tasks: [{
+				dialogId: "818afab6-cc60-3221-83ad-c75ef6c27af0"
+				id: "6F4DCBF601CEFB2D"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"213227AC79061641"
+				"43B2599724CCDADD"
+				"4377AA8E7231B57E"
+				"573107DFA8748A69"
+				"65C4376255E16F45"
+				"477CB824537ADB48"
+				"5D853F946E932738"
+			]
+			id: "3B3AA90EF74D7A5C"
+			invisible: true
+			rewards: [
+				{
+					id: "19E227383CF250B8"
+					item: {
+						components: {
+							"minecraft:custom_data": {
+								color: "cyan"
+							}
+							"minecraft:custom_name": "{\"italic\":false,\"text\":\"Horrific Necktie\"}"
+							"minecraft:lore": ["{\"color\":\"white\",\"extra\":[{\"color\":\"dark_purple\",\"italic\":false,\"text\":\"INLAND EMPIRE\"}],\"italic\":false,\"text\":\"+1 \"}"]
+						}
+						count: 1
+						id: "testosterone:tie"
+					}
+					only_one: true
+					type: "item"
+				}
+				{
+					id: "24E947AE39EF485C"
+					item: {
+						count: 1
+						id: "tarotcards:the_fool"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "quark:textures/attribute/unknown.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3926BBE813386E11"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+	]
+}

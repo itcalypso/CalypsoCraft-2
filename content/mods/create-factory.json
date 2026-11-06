@@ -1,0 +1,23 @@
+{
+  "name": "Create: Factory",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "j6Zt3N7W",
+      "slug": "create-factory",
+      "versionId": "OA9Dvj5m",
+      "versionNumber": "0.7b-1.21.1",
+      "filename": "create_factory-0.7b-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/j6Zt3N7W/versions/OA9Dvj5m/create_factory-0.7b-1.21.1.jar",
+      "sha1": "d8d406117a717a0359079b50e987f265378b05b1",
+      "sha512": "4acc37144a644ea0ddc1290e2419b2eb852e38faa48992f702afc2555162fcc8baa9b79c9dab2f77da57b5b530011ad737cf638ba4813053a63c43b3a554d485",
+      "fileSize": 212765
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

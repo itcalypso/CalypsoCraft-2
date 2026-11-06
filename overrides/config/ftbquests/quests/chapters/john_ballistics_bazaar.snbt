@@ -1,0 +1,632 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "john_ballistics_bazaar"
+	group: "7239D5B13D8C4769"
+	icon: {
+		id: "minecraft:gunpowder"
+	}
+	id: "4011180EBAB01E94"
+	images: [
+		{
+			click_action: "none:"
+			dependency: "15BB6D1C3639EE37"
+			height: 1.0d
+			id: "43ACF586D2B65D79"
+			image: "brewinandchewin:item/beer"
+			order: 1
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			click_action: "show_recipe:create:builders_tea"
+			dependency: "3932261C71600498"
+			height: 1.0d
+			id: "00853D481073E921"
+			image: "create:item/builders_tea"
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			text_v_align: "start"
+			width: 1.0d
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			click_action: "none:"
+			dependency: "7968A69F5124EA36"
+			height: 1.0d
+			id: "16CAF178060F2983"
+			image: "minecraft:item/tnt_minecart"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			click_action: "none:"
+			dependency: "7968A69F5124EA36"
+			height: 1.0d
+			id: "293F81242CD218D8"
+			image: "create:item/cinder_flour"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: 2.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7E80B93AEDE98D8D"]
+			id: "78938EEDDC15927A"
+			tasks: [{
+				dialogId: "7817d6cc-54f8-3222-aefa-1698f5f75adb"
+				id: "6C1A142C778AA546"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["78938EEDDC15927A"]
+			hide_until_deps_complete: true
+			id: "5E9A19DB0A91AC29"
+			tasks: [{
+				dialogId: "524c077e-9be3-347c-b5fa-3fdc6f41e234"
+				id: "56406DBEC381E2CD"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E9A19DB0A91AC29"]
+			hide_until_deps_complete: true
+			id: "4F6E53F632186119"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "6EF565B7C9A98E2D"
+				ignore_dimension: false
+				position: [I;
+					-245
+					67
+					592
+				]
+				size: [I;
+					2
+					2
+					2
+				]
+				type: "location"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F6E53F632186119"]
+			hide_until_deps_complete: true
+			id: "3515A6D3149D1188"
+			tasks: [{
+				dialogId: "c2eff1d7-76fc-37fe-bfe1-cf3d1b306471"
+				id: "5B41E9E160421FC5"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3515A6D3149D1188"]
+			hide_until_deps_complete: true
+			id: "15BB6D1C3639EE37"
+			tasks: [{
+				dialogId: "3cd06fa2-f66e-3145-8093-ed7434a44595"
+				id: "38B6721FA3F9BFBF"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["15BB6D1C3639EE37"]
+			hide_until_deps_complete: true
+			id: "18290445E1A78836"
+			tasks: [{
+				dialogId: "d9cbe596-c5f5-3310-92b6-0dca88d13ce2"
+				id: "375C88FD67D4C328"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["15BB6D1C3639EE37"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1A6AFBE55A36253A"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "57e1e5c7-9255-32fa-9740-8617ef626cd1"
+				id: "55AFAC5F99233E74"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1A6AFBE55A36253A"]
+			hide_dependency_lines: false
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1657BAB8AA49ACA7"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "1a12ad55-836c-3bb9-9e2a-6a6dc53368a4"
+				id: "5F8CA36200980A87"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["18290445E1A78836"]
+			hide_until_deps_complete: true
+			id: "3932261C71600498"
+			tasks: [{
+				dialogId: "35d29e25-64c0-357c-980c-d359822d213c"
+				id: "5436F9FCB44A4F7B"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3932261C71600498"]
+			hide_until_deps_complete: true
+			id: "3A71D9C16F187E47"
+			tasks: [{
+				dialogId: "c1f5d7e4-fed3-3c8a-9f3e-8ff50c26c1f8"
+				icon: {
+					id: "create:builders_tea"
+				}
+				id: "24B4DE828C39A393"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3932261C71600498"]
+			id: "74CA3DC71A23C54B"
+			invisible: true
+			optional: true
+			repeat_cooldown: 1
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				dialogId: "0a3e3c17-e64e-3aa8-891a-de0a1abd33ff"
+				icon: {
+					id: "artifacts:antidote_vessel"
+				}
+				id: "6D6D078EC38B047C"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 2.0d
+			y: -2.25d
+		}
+		{
+			can_repeat: true
+			dependencies: ["74CA3DC71A23C54B"]
+			hide_until_deps_complete: true
+			id: "0DFB4E81158CFDF9"
+			optional: true
+			repeat_cooldown: 86400
+			rewards: [{
+				id: "65D38A35E7BD10DD"
+				item: {
+					count: 1
+					id: "artifacts:antidote_vessel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "0BA29749A3E188D0"
+				item: { count: 1, id: "create:builders_tea" }
+				only_from_crafting: false
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3A71D9C16F187E47"]
+			hide_until_deps_complete: true
+			id: "3FC4CE0532E8F9D4"
+			tasks: [{
+				dialogId: "46c5269b-43a9-36f1-aa41-d8e218facac3"
+				id: "55E51A4E6B1143B1"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3FC4CE0532E8F9D4"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:tnt"
+			}
+			id: "574A371F98A23260"
+			size: 2.0d
+			tasks: [{
+				dialogId: "f832036c-6e73-38f3-89cd-4323021ea625"
+				icon: {
+					id: "minecraft:tnt"
+				}
+				id: "533B90DDABD7F4F7"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3FC4CE0532E8F9D4"]
+			hide_text_until_complete: false
+			icon: {
+				components: {
+					"ftbquests:icon": "ftbquests:textures/gui/info.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7968A69F5124EA36"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "d4cdafea-8a23-3f0d-a09d-9090a814b9d1"
+				id: "7406E7683C9E52B0"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["574A371F98A23260"]
+			hide_until_deps_complete: true
+			id: "4A11C733174B3488"
+			tasks: [{
+				dialogId: "5c96fce7-1e72-3866-898e-cc53233efaac"
+				id: "3BCCBC2E250AD1E9"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4A11C733174B3488"]
+			hide_until_deps_complete: true
+			id: "3AC55F31F570DE9E"
+			tasks: [{
+				dialogId: "460575eb-7327-309a-b8a5-0e634ffa96bc"
+				id: "33CAA105E4825C9E"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3AC55F31F570DE9E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "729E251D34EE6EB9"
+			size: 2.0d
+			tasks: [{
+				dialogId: "932404b3-9593-3036-aad2-487a06f48963"
+				icon: {
+					id: "minecraft:iron_shovel"
+				}
+				id: "08419F6C40D1D6B5"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16E1AECDB54120A4"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "handcrafted:hammer"
+			}
+			id: "324E2726187ACDC0"
+			size: 2.0d
+			tasks: [{
+				dialogId: "368096b6-864b-355e-abc1-2fb33ae636ae"
+				id: "7173607E2035A900"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["729E251D34EE6EB9"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "quark:oak_chest"
+			}
+			id: "16E1AECDB54120A4"
+			tasks: [{
+				dialogId: "84377f7d-cacc-3b84-aff3-9d19cf34666a"
+				icon: {
+					id: "quark:oak_chest"
+				}
+				id: "77623FEAD31F5919"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["324E2726187ACDC0"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "40C1628E537ACE02"
+			tasks: [{
+				dialogId: "8ab87d4f-b360-3cc5-bfc0-c5c958a250b1"
+				icon: {
+					id: "i_architecture:industrial_iron_ingot"
+				}
+				id: "5C08A77CC26DE00E"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 17.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["324E2726187ACDC0"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "4388EC904390DE65"
+			tasks: [{
+				dialogId: "cec315e3-d097-3e5c-8281-1d5d8725f149"
+				icon: {
+					id: "create:fluid_tank"
+				}
+				id: "2418F479713C76C8"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 16.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["16E1AECDB54120A4"]
+			id: "10547843D94F1507"
+			invisible: true
+			optional: true
+			shape: "diamond"
+			tasks: [{
+				dialogId: "6eb9b9c6-5510-3090-b28e-630512225e77"
+				icon: {
+					id: "brewinandchewin:beer"
+				}
+				id: "03F4689B06D1CB57"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 14.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["324E2726187ACDC0"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "68A3F10B4DD66A79"
+			tasks: [{
+				dialogId: "95f14ddb-20eb-3c98-b889-06164014571d"
+				icon: {
+					id: "create:andesite_casing"
+				}
+				id: "22984AC7EC8C75EC"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 15.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["324E2726187ACDC0"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "029625AA934B5193"
+			tasks: [{
+				dialogId: "2b34fc94-1485-3800-8951-08283af0d3c2"
+				icon: {
+					id: "create:andesite_casing"
+				}
+				id: "6AA73130A2ED090D"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 15.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["324E2726187ACDC0"]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "3A4793330324696A"
+			tasks: [{
+				dialogId: "2be92825-4d3c-398b-9f4b-ed52905a01e9"
+				icon: {
+					id: "i_architecture:industrial_iron_ingot"
+				}
+				id: "0EDFE142317056DC"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 17.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"4388EC904390DE65"
+				"40C1628E537ACE02"
+				"68A3F10B4DD66A79"
+				"029625AA934B5193"
+				"3A4793330324696A"
+			]
+			hide_dependent_lines: true
+			hide_until_deps_complete: true
+			id: "1B5272689B5376E4"
+			tasks: [{
+				icon: {
+					id: "supplementaries:wrench"
+				}
+				id: "53A3DFCE8223EE8A"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 16.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"1B5272689B5376E4"
+				"324E2726187ACDC0"
+			]
+			id: "3C5949CDA1E39406"
+			tasks: [{
+				dialogId: "908cb5f6-6677-38d0-9257-1fbe848c4df0"
+				id: "16E9508A2C411411"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 18.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C5949CDA1E39406"]
+			icon: {
+				id: "create:wrench"
+			}
+			id: "2E947130D7393F1C"
+			size: 2.0d
+			tasks: [{
+				dialogId: "057f9c5c-de23-3a29-aa94-2949b32d9f0d"
+				id: "024CE6F05BD6590E"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 20.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2E947130D7393F1C"]
+			hide_until_deps_complete: true
+			id: "0B8B1F2844079CB2"
+			tasks: [{
+				dialogId: "a4e46dae-773e-3cc6-9e2b-8798e53084f2"
+				icon: {
+					id: "create:mechanical_press"
+				}
+				id: "1ECFA5A47B96562B"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 20.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2E947130D7393F1C"]
+			hide_until_deps_complete: true
+			id: "79CC5F8A06592660"
+			tasks: [{
+				dialogId: "eb596ca6-562c-3c5a-8c0c-5d954a088c2c"
+				icon: {
+					id: "create:mechanical_mixer"
+				}
+				id: "7BD4961EEF125E76"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 19.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["2E947130D7393F1C"]
+			id: "33338B7FE56E77B0"
+			tasks: [{
+				dialogId: "cb1ef18b-ba31-334c-bb15-10f02acb4125"
+				icon: {
+					id: "create:mechanical_arm"
+				}
+				id: "2F4CC10C236C4201"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 21.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"79CC5F8A06592660"
+				"0B8B1F2844079CB2"
+				"33338B7FE56E77B0"
+			]
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			id: "5DB36768A943FAE1"
+			invisible: true
+			tasks: [{
+				icon: {
+					id: "create:large_cogwheel"
+				}
+				id: "36EE3B36A117A4BD"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 20.5d
+			y: -3.5d
+		}
+		{
+			dependencies: [
+				"5DB36768A943FAE1"
+				"2E947130D7393F1C"
+			]
+			hide_until_deps_complete: true
+			id: "1832548650828733"
+			tasks: [{
+				dialogId: "d4cdafea-8a23-3f0d-a09d-9090a814b9d1"
+				id: "76846680A090BDF6"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 22.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				components: {
+					"ntgl:ammo_count": 6
+				}
+				id: "cgs:revolver"
+			}
+			id: "310D0E355917D06F"
+			size: 2.0d
+			tasks: [{
+				dialogId: "d4cdafea-8a23-3f0d-a09d-9090a814b9d1"
+				id: "19961E4F2A27A29F"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 24.5d
+			y: 0.0d
+		}
+	]
+}

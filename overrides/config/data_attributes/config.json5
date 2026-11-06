@@ -1,0 +1,13 @@
+{
+	// Don't change this! Version used to track needed updates.
+	"version": 3,
+	// Editable, highest-priority settings owned by this server.
+	"serverConfig": {
+		// Highest-priority attribute-definition rules. Minimum/maximum are ceilings/floors for calculated values, not entity values. Unknown but syntactically valid IDs are retained for optional-mod compatibility and ignored until registered.
+		"overrides": { },
+		// Parent/child attribute relationships. Self-links and unresolved attributes are ignored safely at runtime.
+		"functions": { },
+		// Base values attached to explicit entity types or Data Attributes entity groups. Existing loaded entities adopt supplier-owned base changes on their next tick.
+		"entities": { }
+	}
+}

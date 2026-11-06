@@ -1,0 +1,22 @@
+{
+  "name": "NetherPortalFix",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "241160",
+      "slug": "netherportalfix",
+      "versionId": "5623547",
+      "versionNumber": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/5623/547/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "sha1": "7cf40ec774392823e709da7659a6d4a5a04c8c9d",
+      "fileSize": 211972
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

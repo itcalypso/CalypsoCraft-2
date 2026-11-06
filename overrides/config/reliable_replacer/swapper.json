@@ -1,0 +1,7 @@
+{
+  "swapper": {
+    "cgs:sulfur_ore": "minecraft:netherrack",
+    "cgs:lead_ore": "minecraft:stone",
+    "cgs:deepslate_lead_ore": "minecraft:deepslate"
+  }
+}

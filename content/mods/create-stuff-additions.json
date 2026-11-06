@@ -1,0 +1,25 @@
+{
+  "name": "Create Stuff 'N Additions",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "aq9qUUQG",
+      "slug": "create-stuff-additions",
+      "versionId": "gMWQ1LX9",
+      "versionNumber": "2.1.4.b",
+      "filename": "create-stuff-additions1.21.1_v2.1.4b.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/aq9qUUQG/versions/gMWQ1LX9/create-stuff-additions1.21.1_v2.1.4b.jar",
+      "sha1": "246915560f74b92e0186c22da26be8995380c443",
+      "sha512": "75cd8a0a2f898b3599cb267c26c02691e53f8ca8f6c6c4f16d1a82db8fea4494988f163559cc3a8b471683d5b52353ba065def8846a7ff2073bddf42e68b5e7d",
+      "fileSize": 1347181
+    }
+  },
+  "dependents": [
+    "gsAqDfOu"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

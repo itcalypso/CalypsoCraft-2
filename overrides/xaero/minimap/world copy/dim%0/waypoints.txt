@@ -1,0 +1,11 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Tiny Village:T:-5734:64:33020:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tiny Village:T:-5684:68:33438:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Boat S:B:-5676:67:33423:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Boat N:B:-5708:63:33031:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Something Cool:S:-5818:84:33214:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:XOR Area:X:-4669:158:33174:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tinctura:T:-4992:76:32908:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Library of John:L:-5784:68:33425:0:false:0:gui.xaero_default:false:0:0:false

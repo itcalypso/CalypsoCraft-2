@@ -1,0 +1,398 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "the_coal_mine"
+	group: "7239D5B13D8C4769"
+	hide_quest_until_deps_complete: true
+	icon: {
+		id: "minecraft:coal_ore"
+	}
+	id: "4DE70519E2BB625D"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5E31D84E572C58FE"
+			tasks: [{
+				dialogId: "c64ce32e-ba2b-300d-b73b-691a174cbe9c"
+				icon: {
+					id: "minecraft:coal"
+				}
+				id: "36FE48E4D1D4F7B2"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E31D84E572C58FE"]
+			id: "2C894A30218C547D"
+			tasks: [{
+				icon: {
+					id: "create:elevator_pulley"
+				}
+				id: "308D21B32ACF0502"
+				stage: "mq.elevator.fixed"
+				type: "gamestage"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E31D84E572C58FE"]
+			id: "3B19D30AB0AE3C37"
+			tasks: [{
+				dialogId: "8f95b05e-55b3-3421-a9ef-f1d7f4ae77e2"
+				icon: {
+					id: "minecraft:poisonous_potato"
+				}
+				id: "4CBC0DA4FCBD4E4F"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5E31D84E572C58FE"]
+			id: "052A279CCA92FC93"
+			tasks: [{
+				dialogId: "473fc49d-e798-3514-8819-7f36c88ca86f"
+				icon: {
+					id: "create:metal_girder"
+				}
+				id: "06F060D5E907294B"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"2C894A30218C547D"
+				"052A279CCA92FC93"
+				"3B19D30AB0AE3C37"
+			]
+			id: "2CF0C85BFF8520B1"
+			tasks: [{
+				dialogId: "83a8a505-2eeb-32ac-a9ad-684a0191b310"
+				id: "66BA2AFABD1030C1"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2CF0C85BFF8520B1"]
+			id: "48A24D40F464D6DC"
+			tasks: [{
+				dialogId: "e0bfac9a-1b44-3ff4-ae96-fc970e3129ed"
+				id: "1383DD7B1E6316A2"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48A24D40F464D6DC"]
+			id: "1C1F294C7C95FB14"
+			tasks: [{
+				dialogId: "937de310-a05a-330f-a4c8-02d802020fdb"
+				id: "43A0B88FD4B2D876"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C1F294C7C95FB14"]
+			id: "6678DC9C674E9DA7"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "7BB7CA1FFB34D34F"
+				ignore_dimension: false
+				position: [I;
+					-307
+					-12
+					979
+				]
+				size: [I;
+					2
+					2
+					2
+				]
+				type: "location"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6678DC9C674E9DA7"]
+			id: "3C971E6E88B7B73B"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "4b4ada54-1627-3013-a114-0bc33e0fa491"
+				icon: {
+					id: "minecraft:red_dye"
+				}
+				id: "5951CF1CA96567DD"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6678DC9C674E9DA7"]
+			id: "4ECD69A90FEE8B32"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "5ea215ae-d06e-33d1-8c23-8b67de90dbf7"
+				icon: {
+					id: "minecraft:white_dye"
+				}
+				id: "22E5CC0FEA851B03"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6678DC9C674E9DA7"]
+			id: "4FC0E394EA22FCBB"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "b5d09635-b01e-30f2-aa14-c20c21b4d981"
+				icon: {
+					id: "minecraft:yellow_dye"
+				}
+				id: "7BD3A00CA7D0AD71"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6678DC9C674E9DA7"]
+			id: "0D3E0C4B102B0CE2"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "deb96a2f-31ee-3522-9c71-41bffc903652"
+				icon: {
+					id: "minecraft:black_dye"
+				}
+				id: "549E262C98229251"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6678DC9C674E9DA7"]
+			id: "085268E514E0C0F1"
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "79B49E533083F651"
+				ignore_dimension: false
+				position: [I;
+					-324
+					-36
+					888
+				]
+				size: [I;
+					3
+					3
+					3
+				]
+				type: "location"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["085268E514E0C0F1"]
+			id: "7C1C0537341740AF"
+			tasks: [{
+				icon: {
+					id: "farmersdelight:netherite_knife"
+				}
+				id: "766DF36D80FC1B68"
+				stage: "killed_gunkheart"
+				type: "gamestage"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6678DC9C674E9DA7"]
+			id: "67246DF76E12C3E5"
+			invisible: true
+			optional: true
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: {
+					id: "dungeonsdelight:rotbulb"
+				}
+				id: "1AC1730306C5BB3B"
+				ignore_dimension: false
+				position: [I;
+					-322
+					-36
+					820
+				]
+				size: [I;
+					3
+					3
+					3
+				]
+				type: "location"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["67246DF76E12C3E5"]
+			id: "19489DF4943D6511"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "81d5f6ea-2374-386b-9002-61c2b08644c1"
+				id: "031E55D86E7E99C9"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["67246DF76E12C3E5"]
+			id: "7A9FBC6C0C53DA04"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "3d4d1ad1-3152-3386-9157-64215223803f"
+				id: "33B2574A0B68EDDD"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["67246DF76E12C3E5"]
+			id: "0BADE9DF577DE580"
+			invisible: true
+			optional: true
+			tasks: [{
+				dialogId: "32305e1f-0e53-316f-af03-508dc9504059"
+				id: "1E167AF52747B369"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "dungeonsdelight:gunk"
+			}
+			id: "312B452088FC25F6"
+			invisible: true
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "dungeonsdelight:gunk"
+				}
+				id: "53CB27F671D15F52"
+				stage: "killed_gunkheart"
+				type: "gamestage"
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C1C0537341740AF"]
+			id: "3527D2BBB605B19C"
+			tasks: [{
+				dialogId: "db14f871-191c-37f5-8bcc-b3bf3fc141fc"
+				id: "439E756642BE23FA"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3527D2BBB605B19C"]
+			id: "074E9E160A17AD9D"
+			tasks: [{
+				dialogId: "036c6c4f-59a7-302c-96a5-b6f5904c5359"
+				id: "62DB1BDFB210A148"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:coal_ore"
+			}
+			id: "1BA9F44CB0F06CD2"
+			invisible: true
+			size: 2.0d
+			tasks: [{
+				dialogId: "036c6c4f-59a7-302c-96a5-b6f5904c5359"
+				id: "7998A4B33BECFCBC"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 19.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4FC0E394EA22FCBB"
+				"0D3E0C4B102B0CE2"
+				"4ECD69A90FEE8B32"
+				"3C971E6E88B7B73B"
+				"19489DF4943D6511"
+				"7A9FBC6C0C53DA04"
+				"0BADE9DF577DE580"
+			]
+			hide_dependency_lines: true
+			id: "2F53F2D69AC6593D"
+			invisible: true
+			optional: true
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				icon: {
+					id: "quark:smithing_template_rune"
+				}
+				id: "3E43471C0E8528CF"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 9.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["312B452088FC25F6"]
+			icon: {
+				id: "kubejs:foul_metal_scrap"
+			}
+			id: "5892B2802749380A"
+			tasks: [{
+				icon: {
+					id: "kubejs:foul_metal_scrap"
+				}
+				id: "3BA965E9422302B2"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 14.0d
+			y: 2.0d
+		}
+	]
+}

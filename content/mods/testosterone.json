@@ -1,0 +1,23 @@
+{
+  "name": "Create: Testosterone",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "pIwmV2xi",
+      "slug": "testosterone",
+      "versionId": "rxacUPqq",
+      "versionNumber": "Neoforge-2.1.1-1.21.1",
+      "filename": "testosterone-2.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/pIwmV2xi/versions/rxacUPqq/testosterone-2.1.1.jar",
+      "sha1": "794bcf6de5026412da0951d517e407f9e154fe9f",
+      "sha512": "c6e1328b542052c0651fd3c3cd76d33224ce191f7121dda187246f63a51c69b28f5ce8f2bdc0471d94218e00ad0ce0584149d7469fe09e14515dde6be56fccf1",
+      "fileSize": 1863291
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

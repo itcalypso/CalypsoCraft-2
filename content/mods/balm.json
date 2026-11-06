@@ -1,0 +1,23 @@
+{
+  "name": "Balm",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "MBAkmtvl",
+      "slug": "balm",
+      "versionId": "CquiaiDj",
+      "versionNumber": "21.0.66+neoforge-1.21.1",
+      "filename": "balm-neoforge-1.21.1-21.0.66.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/MBAkmtvl/versions/CquiaiDj/balm-neoforge-1.21.1-21.0.66.jar",
+      "sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+      "sha512": "0262d51c0e931d10c3dccefb3b5426a1622edecab243d4b15dce07a23309641370184776739765067d292d808242d088c6fbf249762689824eff9ba42c2d1e63",
+      "fileSize": 783793
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

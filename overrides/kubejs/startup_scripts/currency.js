@@ -1,0 +1,28 @@
+StartupEvents.registry('item', event => {
+event.create('fish_coin')
+.displayName('§3Fish Coin')
+.tooltip('A mark of your fishing accomplishment.')
+.tooltip('Graciously provided by John Fishmonger.')
+event.create('booze_coin')
+.displayName('§4Booze Coin')
+.tooltip('A mark of your mastery of mixology.')
+.tooltip('Graciously provided by John Bartender.')
+event.create('life_savings')
+.displayName('§2Life Savings')
+.tooltip('My entire life savings.')
+.tooltip('Maybe I could buy a starterkit with this.')
+event.create('charter_token')
+.displayName('§6Charter Token')
+.tooltip('A shiny golden coin that wealthy merchants favor.')
+event.create("dubious_doubloon")
+.displayName('§6Dubious Doubloon')
+.tooltip('Technically worth four dubious dollars.')
+.tooltip('Maybe some sketchy people would trade for this.')
+
+event.create("foul_metal_scrap")
+.displayName('§5Foul Metal Scrap')
+.tooltip('A disgusting hunk of metal covered in gunk.')
+.tooltip('But, it radiates with living power...')
+}
+)
+

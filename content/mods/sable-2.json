@@ -1,0 +1,24 @@
+{
+  "name": "Sable",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1312371",
+      "slug": "sable",
+      "versionId": "9043865",
+      "versionNumber": "Sable NeoForge 2.0.6 for mc1.21.1",
+      "filename": "sable-neoforge-1.21.1-2.0.6.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9043/865/sable-neoforge-1.21.1-2.0.6.jar",
+      "sha1": "cf46f7e8c1511f170abcdbee739944f0540549bf",
+      "fileSize": 12986135
+    }
+  },
+  "dependents": [
+    "1522473"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

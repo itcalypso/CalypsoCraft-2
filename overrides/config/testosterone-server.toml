@@ -1,0 +1,86 @@
+#.
+#Testosterone Effect
+[testosterone_effect]
+	#.
+	#Duration of invincibility per level of testosterone in ticks.
+	# Default: 40
+	# Range: > 0
+	duration = 40
+	#.
+	#By how much is damage taken multiplied. (affects cooldown duration)
+	# Default: 10
+	# Range: > 1
+	multiplier = 10
+	#.
+	#The damage limit when using testosterone and a tie.
+	# Default: 100
+	# Range: > 1
+	max_damage = 100
+
+#.
+#Roid Rage Mechanics
+[roid_rage_mechanics]
+	#.
+	#Maximum speed achieved per level of roid rage.
+	# Default: 200
+	# Range: > 0
+	max_speed = 200
+	#.
+	#The speed that needs to be achieved to get abilities. (running on fluids, high jumping)
+	# Default: 50
+	# Range: > 0
+	ability_speed = 50
+	#.
+	#How much does the speed counter affect jump height.
+	# Default: 0.012000000104308128
+	# Range: 0.0 ~ 3.4028234663852886E38
+	jump_multiplier = 0.012000000104308128
+	#.
+	#How much does the speed counter affect speed.
+	# Default: 0.001500000013038516
+	# Range: 0.0 ~ 3.4028234663852886E38
+	speed_multiplier = 0.001500000013038516
+	#.
+	#How far you jump with the roid rage effect.
+	# Default: 0.5
+	# Range: 0.0 ~ 10.0
+	tren_in_air_mul = 0.5
+	#.
+	#Duration of the trenbolone trail.
+	# Default: 5
+	# Range: > 0
+	trail_duration = 5
+	#.
+	#Radius of the ground slam.
+	# Default: 1.0
+	# Range: 0.0 ~ 3.4028234663852886E38
+	fall_damage_radius = 1.0
+	#.
+	#Allow using elytra while roid rage is active.
+	allow_elytra = false
+
+#.
+#John Rock
+[john_rock]
+	#.
+	#How many John rocks can get powered from 1 source.
+	# Default: 4096
+	# Range: > 4
+	john_rock_limit = 4096
+	#.
+	#Should it also convert vertically.
+	john_rock_vertical = false
+	#.
+	#Range of conversion of John rocks.
+	# Default: 3
+	# Range: > 1
+	john_rock_range = 3
+
+#.
+#Rat
+[rat]
+	#.
+	#How much faster the rat goes when ridden and boosted using cheese on a stick.
+	# Default: 5.0
+	# Range: 1.0 ~ 3.4028234663852886E38
+	rat_boost_multiplier = 5.0

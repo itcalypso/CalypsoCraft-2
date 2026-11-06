@@ -1,0 +1,27 @@
+{
+  "name": "Easy Model Entities",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ngLoLP1P",
+      "slug": "easy-model-entities",
+      "versionId": "9X141cCZ",
+      "versionNumber": "2.6.0",
+      "filename": "easy_model_entities-neoforge-1.21.1-2.6.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ngLoLP1P/versions/9X141cCZ/easy_model_entities-neoforge-1.21.1-2.6.0.jar",
+      "sha1": "1c32e6bcfe8234a7797764190a0960599f60b0b0",
+      "sha512": "1b54292deba89c2ccdc4751d6fee36d4ceb0ffecdfec155a2100c63ea3b0e66714343d24d32d74d507c1f98c266d2ae3bb3f06bee34fb178d077666a2bd8dba1",
+      "fileSize": 748159
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "Epm6R3P2",
+    "uTGjf7vA"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

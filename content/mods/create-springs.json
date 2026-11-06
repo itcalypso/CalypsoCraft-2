@@ -1,0 +1,23 @@
+{
+  "name": "Create: Springs",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "wDCqub60",
+      "slug": "create-springs",
+      "versionId": "3tMl04vO",
+      "versionNumber": "1.2.1-neoforge",
+      "filename": "createsprings-1.2.1-neoforge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/wDCqub60/versions/3tMl04vO/createsprings-1.2.1-neoforge.jar",
+      "sha1": "277fda11b39673e74c9b5b9f1187051f6a95a731",
+      "sha512": "4d52f643d2f8da3be7391f094c3e83a9b4cc9eb0690713de9d8eab409e9931d287c31bc3f186ecf72a282acfb58a6417c4cbdac4fabcf82c743d9c2e99903159",
+      "fileSize": 1428130
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

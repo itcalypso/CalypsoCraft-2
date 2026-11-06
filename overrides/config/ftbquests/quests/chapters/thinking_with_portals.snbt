@@ -1,0 +1,243 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "thinking_with_portals"
+	group: "7239D5B13D8C4769"
+	icon: {
+		id: "ars_nouveau:warp_scroll"
+	}
+	id: "2B0F93B8DBF031F7"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7E80B93AEDE98D8D"]
+			id: "5C7BC2325AA42EF3"
+			tasks: [{
+				dialogId: "aecce82f-7c7a-3c4c-88d2-21b781ff6411"
+				id: "0CBE86189F942CB8"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C7BC2325AA42EF3"]
+			hide_until_deps_complete: true
+			id: "7880878F937DE974"
+			tasks: [{
+				dialogId: "e2771455-cb02-3ee2-a8ea-fd23d56b1e0c"
+				id: "69E951AF1293CAB0"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7880878F937DE974"]
+			hide_until_deps_complete: true
+			id: "7C265DE5D1D5289E"
+			tasks: [{
+				dialogId: "d49b8277-4752-3cbc-afa8-2d167de6ff9d"
+				id: "70F043C7D15B1E23"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7C265DE5D1D5289E"]
+			hide_until_deps_complete: true
+			id: "09767F899173A719"
+			tasks: [{
+				dialogId: "0530333a-c05f-3d9e-a998-ee58a9314267"
+				icon: {
+					id: "ars_nouveau:water_essence"
+				}
+				id: "04D36D6297B4AA1B"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7C265DE5D1D5289E"]
+			hide_until_deps_complete: true
+			id: "39D9A3E2469FBE38"
+			tasks: [{
+				dialogId: "dd9eed6b-2d95-3484-ac45-1f68904db441"
+				icon: {
+					id: "ars_nouveau:fire_essence"
+				}
+				id: "270919F3BBC47FF5"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -6.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7C265DE5D1D5289E"]
+			hide_until_deps_complete: true
+			id: "5673E6419E27BC95"
+			tasks: [{
+				dialogId: "9379f5db-7459-3d60-99a5-596d7ff9867d"
+				icon: {
+					id: "ars_nouveau:air_essence"
+				}
+				id: "0F989B10F5C02DB2"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7C265DE5D1D5289E"]
+			hide_until_deps_complete: true
+			id: "68F01BA0BBC925FA"
+			tasks: [{
+				dialogId: "260ca9dd-8a45-37fc-80b7-bd5810298076"
+				icon: {
+					id: "ars_nouveau:earth_essence"
+				}
+				id: "2E9C159543D93F04"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["06488AC16C365B78"]
+			hide_until_deps_complete: true
+			id: "3DFF3DB56BC36D27"
+			tasks: [{
+				dialogId: "da0f723d-5ac2-33e8-bff7-63978bb17380"
+				icon: {
+					id: "ars_nouveau:abjuration_essence"
+				}
+				id: "31B418D5CBD010FB"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["06488AC16C365B78"]
+			hide_until_deps_complete: true
+			id: "7200E0C5CC92EB5C"
+			tasks: [{
+				dialogId: "e7fed194-4be8-30f1-8a73-35eac65e2cc2"
+				icon: {
+					id: "ars_nouveau:conjuration_essence"
+				}
+				id: "7A4037C4DE89B4D0"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["06488AC16C365B78"]
+			hide_until_deps_complete: true
+			id: "5C9761E70DA8BD81"
+			tasks: [{
+				dialogId: "e256e4a4-8f6f-3b48-b568-b00a3357fbb8"
+				icon: {
+					id: "ars_nouveau:manipulation_essence"
+				}
+				id: "61A23D17B94D8444"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"5673E6419E27BC95"
+				"68F01BA0BBC925FA"
+				"09767F899173A719"
+				"39D9A3E2469FBE38"
+			]
+			hide_until_deps_complete: true
+			id: "37351835BF374DD1"
+			tasks: [{
+				icon: {
+					id: "ars_nouveau:enchanting_apparatus"
+				}
+				id: "17087B36C6402BBC"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37351835BF374DD1"]
+			hide_dependency_lines: false
+			hide_details_until_startable: true
+			hide_text_until_complete: true
+			hide_until_deps_complete: true
+			hide_until_deps_visible: false
+			id: "06488AC16C365B78"
+			tasks: [{
+				dialogId: "93a7b725-3ac1-3802-81c0-979f1cf5b2c3"
+				id: "323EC207CCE90FFF"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3DFF3DB56BC36D27"
+				"7200E0C5CC92EB5C"
+				"5C9761E70DA8BD81"
+			]
+			hide_until_deps_complete: true
+			icon: {
+				id: "ars_nouveau:arcane_core"
+			}
+			id: "6E821494CDF442BC"
+			tasks: [{
+				icon: {
+					id: "ars_nouveau:arcane_core"
+				}
+				id: "43D8213E84FF8746"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6E821494CDF442BC"]
+			hide_text_until_complete: false
+			hide_until_deps_complete: true
+			id: "759A34CFA614396A"
+			tasks: [{
+				dialogId: "cfb2c453-3934-38e8-92a1-ef689daaed9b"
+				id: "4F591E19241657A7"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "ars_nouveau:stable_warp_scroll"
+			}
+			id: "39E3C56025450E62"
+			invisible: true
+			size: 2.0d
+			tasks: [{
+				dialogId: "cfb2c453-3934-38e8-92a1-ef689daaed9b"
+				id: "48C4ABE208487D15"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+}

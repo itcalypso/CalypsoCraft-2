@@ -1,0 +1,25 @@
+{
+  "name": "Mysterious Mountain Lib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ntMyNH8c",
+      "slug": "mmlib",
+      "versionId": "o49zOLis",
+      "versionNumber": "1.2.15-1.21.1",
+      "filename": "mysterious_mountain_lib-1.2.15-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ntMyNH8c/versions/o49zOLis/mysterious_mountain_lib-1.2.15-1.21.1.jar",
+      "sha1": "8cede0ac47ae320e5efff101305d4c8e298c7120",
+      "sha512": "5fb321cd41dcd9d774b9c519beb7811410b92663e34551366fd75a38caf686ffb6a0ddfbe2e0cba53e0593c052ee96d1b5bf7e4675e65fa83dfe4bdb802e2cd3",
+      "fileSize": 291753
+    }
+  },
+  "dependents": [
+    "uxLAKWU8"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

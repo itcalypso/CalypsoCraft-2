@@ -1,0 +1,23 @@
+{
+  "name": "Create: Bionics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "lCwu0vBo",
+      "slug": "create-bionics",
+      "versionId": "fG2UIEqS",
+      "versionNumber": "2.5.0",
+      "filename": "createbionics-2.5.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/lCwu0vBo/versions/fG2UIEqS/createbionics-2.5.0.jar",
+      "sha1": "f31934ad922b9d1525c3cc109ee178cf9badc2d3",
+      "sha512": "305bbf8834107c63cafd4c534d5af7896953687801688cadcbbf53858a7351c446e615a670eccb438776e2f824013de5f1793bd6ed56159e5603f069c2abc926",
+      "fileSize": 5832222
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,170 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "whats_killing_the_crops"
+	group: "7239D5B13D8C4769"
+	icon: {
+		id: "minecraft:dead_bush"
+	}
+	id: "288593948EAA957C"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1CC446303FE35F48"
+			tasks: [{
+				dialogId: "f500a9c2-c56d-3bf8-812c-a8c4e4895a29"
+				icon: {
+					id: "minecraft:dead_bush"
+				}
+				id: "62A0CFB98A8A1325"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1CC446303FE35F48"]
+			id: "370B9006D6FC23DC"
+			tasks: [{
+				dialogId: "5eae2284-1917-3242-9051-a4c5dfc2e20a"
+				id: "11F8281A66CDFA59"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["370B9006D6FC23DC"]
+			id: "3FDF2823B985E463"
+			tasks: [{
+				dialogId: "5dbc295d-04f3-3435-b82d-a0c7b0432233"
+				id: "2ED55A49A4655D8D"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3FDF2823B985E463"]
+			id: "5F7BDBE87A42A649"
+			tasks: [{
+				dialogId: "2000de77-f76a-3947-a688-8b3d402d5585"
+				id: "155F410AE0585909"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5F7BDBE87A42A649"]
+			id: "3E26990E6916887B"
+			tasks: [{
+				consume_items: false
+				icon: {
+					id: "quark:dark_oak_chest"
+				}
+				id: "7C55B5494E9BBE96"
+				item: { count: 1, id: "kubejs:access_pass" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E26990E6916887B"]
+			id: "692C03C78ACC70A2"
+			tasks: [{
+				dialogId: "068267bb-39a5-3554-b689-78f3c9e73618"
+				id: "0C29248D6AEE3F7D"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["692C03C78ACC70A2"]
+			id: "43560D9403230BB6"
+			tasks: [{
+				dialogId: "254a41b2-09fb-3ca8-9275-cd2488f4d7e4"
+				id: "1B7226F2D404AA1F"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["43560D9403230BB6"]
+			id: "26EC0EA045B7272D"
+			tasks: [{
+				dialogId: "6a774a2a-5985-3f58-9e52-e7f30f1a5c47"
+				id: "48055015738FD07E"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:dead_bush"
+			}
+			id: "07757C24FFE9E586"
+			size: 2.0d
+			tasks: [{
+				dialogId: "6a774a2a-5985-3f58-9e52-e7f30f1a5c47"
+				id: "318AF92B10D760C7"
+				type: "easynpc_ftbq_compat:easy_npc_task"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17FA01D798C518EC"]
+			id: "4BC190A2863ECAAF"
+			invisible: true
+			optional: true
+			tasks: [{
+				icon: {
+					id: "quark:dark_oak_chest"
+				}
+				id: "2B4E46A06B2BF479"
+				stage: "sq.farmbox.opener"
+				type: "gamestage"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3E26990E6916887B"]
+			id: "17FA01D798C518EC"
+			tasks: [{
+				icon: {
+					id: "kubejs:lockpick"
+				}
+				id: "7D9B0E6431719FC9"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 1
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["17FA01D798C518EC"]
+			id: "26D6C4F054A278C9"
+			invisible: true
+			optional: true
+			tasks: [{
+				icon: {
+					id: "quark:dark_oak_chest"
+				}
+				id: "7289B6EBA9BD4262"
+				stage: "sq.factorybox.opener"
+				type: "gamestage"
+			}]
+			x: 6.5d
+			y: -3.0d
+		}
+	]
+}

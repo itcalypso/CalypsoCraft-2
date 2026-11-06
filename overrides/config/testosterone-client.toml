@@ -1,0 +1,87 @@
+#.
+#Client-only settings - If you're looking for general settings, look inside your worlds serverconfig folder!
+[client]
+
+	#.
+	#Beard / Mustache
+	[client.beard_mustache]
+		#.
+		#Whether the beard / mustache should render on yourself and others.
+		render_beard = true
+
+	#.
+	#Testosterone Button
+	[client.testosterone_button]
+		#.
+		#Move left and right.
+		# Default: -23
+		# Range: > -2147483648
+		x_offset = -23
+		#.
+		#Move up and down.
+		# Default: 24
+		# Range: > -2147483648
+		y_offset = 24
+		#.
+		#Show Button
+		show_button = true
+
+	#.
+	#Testosterone Overlay
+	[client.testosterone_overlay]
+		#.
+		#Render the invincibility overlay.
+		render_testosterone_invincible = true
+		#.
+		#Render the overlay while testosterone is on cooldown.
+		render_testosterone_cooldown = true
+		#.
+		#Red component of the overlay while invincible.
+		# Default: 255
+		# Range: 0 ~ 255
+		red_of_invincible = 255
+		#.
+		#Green component of the overlay while invincible.
+		# Default: 209
+		# Range: 0 ~ 255
+		green_of_invincible = 209
+		#.
+		#Blue component of the overlay while invincible.
+		# Default: 119
+		# Range: 0 ~ 255
+		blue_of_invincible = 119
+		#.
+		#Red component of the overlay while on cooldown.
+		# Default: 255
+		# Range: 0 ~ 255
+		red_of_cooldown = 255
+		#.
+		#Green component of the overlay while on cooldown.
+		# Default: 255
+		# Range: 0 ~ 255
+		green_of_cooldown = 255
+		#.
+		#Blue component of the overlay while on cooldown.
+		# Default: 0
+		# Range: 0 ~ 255
+		blue_of_cooldown = 0
+
+	#.
+	#Roid Rage Visuals
+	[client.roid_rage_visuals]
+		#.
+		#Display the speed on the action bar.
+		display_speed = false
+		#.
+		#Render the trenbolone trail.
+		render_trail = true
+		#.
+		#How close to the player the trail should render.
+		# Default: 2.0
+		# Range: 0.0 ~ 3.4028234663852886E38
+		minimum_render_distance = 2.0
+		#.
+		#The offset of the trail
+		# Default: 0.0
+		# Range: -2048.0 ~ 2048.0
+		trail_offset = 0.0

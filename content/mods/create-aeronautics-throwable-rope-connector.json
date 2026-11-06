@@ -1,0 +1,23 @@
+{
+  "name": "Create Aeronautics: Throwable Rope Connector",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9xiCbKmM",
+      "slug": "create-aeronautics-throwable-rope-connector",
+      "versionId": "EDzeTV17",
+      "versionNumber": "0.4.3",
+      "filename": "create_aeronautics_throwable_rope_connector-0.4.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9xiCbKmM/versions/EDzeTV17/create_aeronautics_throwable_rope_connector-0.4.3.jar",
+      "sha1": "63fcbbc960461d42a59b417665fb938c79919514",
+      "sha512": "0a1fc122e4c303a0903213192c32dbc6a0a819c101e70e508e989297e5e688855730a2f9e28f7107a92524cc3ee7349fc47615fd04902fda04b797a401a40c71",
+      "fileSize": 187714
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

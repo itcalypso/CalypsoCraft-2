@@ -1,0 +1,6 @@
+#Minimum operator level required to open the Tag Editor or Loot Table Editor GUI (0-4)
+# Default: 2
+# Range: 0 ~ 4
+requiredOpLevel = 2
+#Send a chat confirmation message to the player after successfully applying a change
+showCommandFeedback = true

@@ -1,0 +1,24 @@
+{
+  "name": "MezzConfig",
+  "side": "auto",
+  "explicit": false,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1689768",
+      "slug": "mezzconfig",
+      "versionId": "9453297",
+      "versionNumber": "MezzConfig 0.6.11 for NeoForge 1.21.1",
+      "filename": "mezz_config-1.21.1-neoforge-0.6.11-standalone.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/9453/297/mezz_config-1.21.1-neoforge-0.6.11-standalone.jar",
+      "sha1": "d67b0773b42442a5353d40394479fa760fe9d486",
+      "fileSize": 346826
+    }
+  },
+  "dependents": [
+    "238222"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

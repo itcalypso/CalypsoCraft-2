@@ -1,0 +1,19 @@
+{
+  "lastPackDir": "/home/calypso/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/calypsocraft 2 dev 0.2/minecraft/resourcepacks/badlands_test",
+  "recentPacks": [
+    {
+      "path": "/home/calypso/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/calypsocraft 2 dev 0.2/minecraft/resourcepacks/badlands_test",
+      "name": "badlands_test",
+      "kind": "RESOURCE_PACK"
+    },
+    {
+      "path": "/home/calypso/cc2/nauttest",
+      "name": "nauttest",
+      "kind": "RESOURCE_PACK"
+    }
+  ],
+  "openTabs": [
+    "/home/calypso/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/calypsocraft 2 dev 0.2/minecraft/resourcepacks/badlands_test/assets/minecraft/polytone/biome_modifiers/badlands.json"
+  ],
+  "activeTab": "/home/calypso/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/calypsocraft 2 dev 0.2/minecraft/resourcepacks/badlands_test/assets/minecraft/polytone/biome_modifiers/badlands.json"
+}

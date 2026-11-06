@@ -1,0 +1,23 @@
+{
+  "name": "Easy Magic",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9hx3AbJM",
+      "slug": "easy-magic",
+      "versionId": "MxbfrOEv",
+      "versionNumber": "v21.1.4-1.21.1-NeoForge",
+      "filename": "EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9hx3AbJM/versions/MxbfrOEv/EasyMagic-v21.1.4-1.21.1-NeoForge.jar",
+      "sha1": "bbd1d7afd2b803f6c8055b5342d581ea542e132e",
+      "sha512": "30c7383c0f3b6d767652fa58c3b4e4ee7169c28f1e7653493db1cd62289447cd0698967453c4fa09dc1327b322e7c7ad8476d24a557ac0cb521d08e8ab5fc8da",
+      "fileSize": 143992
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

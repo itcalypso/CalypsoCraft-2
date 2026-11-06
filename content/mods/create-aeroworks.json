@@ -1,0 +1,22 @@
+{
+  "name": "Create: Aeroworks",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1522473",
+      "slug": "create-aeroworks",
+      "versionId": "8743051",
+      "versionNumber": "1.5.0+mc1.21.1",
+      "filename": "aeroworks-1.5.0.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/8743/51/aeroworks-1.5.0.jar",
+      "sha1": "a14ff1c30f3c824b36ee6e2e711a47fd537a5c5f",
+      "fileSize": 790152
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

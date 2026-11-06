@@ -1,0 +1,25 @@
+{
+  "name": "DragonLib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sbIsGaOV",
+      "slug": "dragonlib",
+      "versionId": "x376YU9w",
+      "versionNumber": "1.21.1-beta-3.0.28",
+      "filename": "dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sbIsGaOV/versions/x376YU9w/dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
+      "sha1": "32ad20ba9a28629ecf47e0bfeb911f6c53bd1b7c",
+      "sha512": "859ff5bcf97dab2afff7d75620a24bb2f472a75e8cbf04f536bb0d9655d1f7f5dbdcab8cf13ca706dfc57e0581bbb1d5e3331c3dfece7324761b9e55bcd62931",
+      "fileSize": 2107270
+    }
+  },
+  "dependents": [
+    "Dq3STxps"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Climbable Ropes for Create Aeronautics",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "jImqv1M5",
+      "slug": "create-aeronautics-climbable-rope",
+      "versionId": "fk5DMIYY",
+      "versionNumber": "2.1.4",
+      "filename": "climbable_ropes-2.1.4.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/jImqv1M5/versions/fk5DMIYY/climbable_ropes-2.1.4.jar",
+      "sha1": "7b830925ecde368f0848470d52d840f6b74a6de8",
+      "sha512": "c25839624e204267a7ed82f413a1b2448a508ca554d451d37c2ca89420972002a565ccbc91e63d1b4f8aa76552287dd8c9c6f66769be7384c815c8a62f0a9eb2",
+      "fileSize": 256035
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

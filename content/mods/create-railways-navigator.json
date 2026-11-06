@@ -1,0 +1,23 @@
+{
+  "name": "Create Railways Navigator",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "Dq3STxps",
+      "slug": "create-railways-navigator",
+      "versionId": "rlsRwxq3",
+      "versionNumber": "1.21.1-beta-0.10.0-C6",
+      "filename": "createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/Dq3STxps/versions/rlsRwxq3/createrailwaysnavigator-neoforge-1.21.1-beta-0.10.0-C6.jar",
+      "sha1": "bf0ff70b421fb6fdb899f21e8e2899bbc9bd5e33",
+      "sha512": "70a0894de0393c9235b875c2e757d1ea3192e4e66fb69d99d19108f8670c381d2dfb85de5393c9e8bcccfe547134765c81b9a1261c5723dedf1da50786ac5bd3",
+      "fileSize": 4680276
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

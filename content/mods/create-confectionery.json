@@ -1,0 +1,23 @@
+{
+  "name": "Create Confectionery",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "WPE5gRs9",
+      "slug": "create-confectionery",
+      "versionId": "ndnETBEN",
+      "versionNumber": "1.1.3.b",
+      "filename": "create-confectionery1.21.1_v1.1.3b.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/WPE5gRs9/versions/ndnETBEN/create-confectionery1.21.1_v1.1.3b.jar",
+      "sha1": "47e235efa862c5cbea53fdf8346d4c499674defa",
+      "sha512": "ee299e0b3fc12edc506f7385a44eef207fcdc30ba6a0d30248614eed3486f78c661d9a176cb715eba044ac1a4255e38aa522bdd4b3fc1778049625108e114e82",
+      "fileSize": 2127265
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

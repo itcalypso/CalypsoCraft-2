@@ -1,0 +1,23 @@
+{
+  "name": "Corn Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uxLAKWU8",
+      "slug": "corn-delight",
+      "versionId": "JtT5ioNz",
+      "versionNumber": "1.2.10-1.21.1",
+      "filename": "corn_delight-1.2.10-1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uxLAKWU8/versions/JtT5ioNz/corn_delight-1.2.10-1.21.1.jar",
+      "sha1": "644fa3a8a9ea1be375c1aefff5cf919e36a7835f",
+      "sha512": "75a5a95874b218942820ffc1e17663ff2e8053916233e4975c92457271cf603a80228798cb1b9d1400e1db175031ef92695fa1de9e66497cb8bb5d32b6cb03a6",
+      "fileSize": 165038
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
